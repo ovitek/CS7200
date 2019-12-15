@@ -1,0 +1,31 @@
+<h1> Statistical Methods for Computer Science, Spring 2020 </h1>
+<h2>Tue 11:45am-1:25pn and Fri 2:50pm - 4:30pm, Behrakis Health Sciences Cntr 325</h2>
+
+The course introduces concepts in applied statistics. It overviews frequentist and Bayesian characterization of uncertainty for continuous and categorical data, principles of experimental design, and methods of causal inference. The course discusses the methodological foundations, as well as issues of practical implementation and use. 
+
+The methods discussed in the course are useful in any area of science and industry that collects and analyzes data. First, many areas rely on empirical research. Students working in these areas will benefit from a formal exposure to the scientific method, principles of experimental design, and analysis of data from designed and observational studies.  Second, the success of most new scientific methods is determined by the quality of their evaluation. The concepts presented in this course will help students design method evaluation experiments, and analyze the resulting data.
+
+
+<p><strong>Instructor:</strong> [Prof. Olga Vitek](http://olga-vitek-lab.ccis.northeastern.edu/)</br>
+Email: o.vitek@neu.edu</br>
+Office hours: Tue 1:30-2:30pn and Fri 4:30-5:30pm, or by appointment. WVH 310F.</br>
+Mailbox: WVH 202</p>
+
+<p><strong>Teaching assistants:</strong></br>
+[Mr. Sicheng Hao](https://www.linkedin.com/in/sicheng-hao-0a9481b2/), 
+Email: hao.sic@husky.neu.edu</br>
+Office hours: TBA, or by appointment. WVH 310.
+
+<p><strong>Course policies and administration:</strong></br> [Syllabus](CS7290_Fall19_syllabus.pdf),  [Piazza](http://piazza.com/northeastern/fall2019/cs7290), [Blackboard](https://northeastern.blackboard.com/).</br>
+[Academic integrity policy](http://www.northeastern.edu/osccr/academic-integrity-policy/) is strictly enforced.</p> 
+
+<h2>Main text:</h2>
+<p>(KNNL) [Applied Linear Statistical Models](https://www.amazon.com/Applied-Linear-Statistical-Models-2013/dp/1259064743/). Kutner, Neter, Nachtsheim, Li, McGraw-Hill, 5th Edition, 2004. [Datasets](http://users.stat.ufl.edu/~rrandles/sta4210/Rclassnotes/data/textdatasets/index.html).</br>
+(Agresti) [Categorical Data Analysis](http://users.stat.ufl.edu/~aa/cda/cda.html). Agresti, Wiley, 3rd Edition, 2013.</br>
+(Gelman) [Bayesian Data Analysis](http://www.stat.columbia.edu/~gelman/book/). Gelman, Carlin, Stern, Rubin, Chapman \& Hall/CRC, 3rd Edition, 2013.
+</p>
+
+<h2>Additional texts (focus on R)</h2>
+<p>(Faraway) [Extending the linear model with R](https://www.amazon.com/Extending-Linear-Model-Generalized-Nonparametric/dp/158488424X). Faraway, Chapman \& Hall/CRC, 2006.</br>
+(Albert) [Bayesian computation with R](http://www-math.bgsu.edu/~albert/bcwr/). Albert, Springer 2007.
+</p>
