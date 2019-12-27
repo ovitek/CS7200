@@ -21,5 +21,5 @@ Office hours: Tue 10-11am, or by appointment. WVH 310.
 
 <h2>Main text:</h2>
 <p>(KNNL) [Applied Linear Statistical Models](https://www.amazon.com/Applied-Linear-Statistical-Models-2013/dp/1259064743/). Kutner, Neter, Nachtsheim, Li, McGraw-Hill, 5th Edition, 2004. [Datasets](http://users.stat.ufl.edu/~rrandles/sta4210/Rclassnotes/data/textdatasets/index.html).</br>
-Additional texts will be posted dynamically on the course website and on Piazza
+Additional texts will be posted dynamically on Piazza
 </p>
