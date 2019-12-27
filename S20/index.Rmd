@@ -14,7 +14,7 @@ Mailbox: WVH 202</p>
 <p><strong>Teaching assistants:</strong></br>
 [Mr. Sicheng Hao](https://www.linkedin.com/in/sicheng-hao-0a9481b2/), 
 Email: hao.sic@husky.neu.edu</br>
-Office hours: TBA, or by appointment in WVH 310.
+Office hours: Tue 10-11am, or by appointment. WVH 310.
 
 <p><strong>Course policies and administration:</strong></br> [Syllabus](CS7200_Spring20_syllabus.pdf),  [Piazza](http://piazza.com/northeastern/spring2020/cs7200), [Blackboard](https://northeastern.blackboard.com/).</br>
 [Academic integrity policy](http://www.northeastern.edu/osccr/academic-integrity-policy/) is strictly enforced.</p> 
