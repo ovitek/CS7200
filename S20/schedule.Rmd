@@ -8,7 +8,7 @@ Schedule is updated dynamically throughout the semester
 |-- | ---------   |:-----------------|:--------------| --------:| ----------:|
 | 1 | Tue, Jan 7  |Inference in</br>one-variable regression||   |            |
 | 2 | Thu, Jan 9  |                  |               |  Hw1 out |            |
-| 3 | Tue, Jan 14 | *Guest lecture*   |          |          |            |
+| 3 | Tue, Jan 14 | *No class</br>make-up lecture TBA*   |          |          |            |
 | 4 | Thu, Jan 16 |                  |               |          |            |
 | 5 | Tue, Jan 21 |                  |               |          |            |
 | 6 | Thu, Jan 23 |                  |               |          | Hw1 due    |
