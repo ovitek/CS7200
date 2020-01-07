@@ -4,39 +4,39 @@ Schedule is updated dynamically throughout the semester
 
 <font size="3">
 
-| DAY| DATE          | TOPIC            |READING     |      OUT |        DUE |
-|-- | ---------   |:-----------------|:--------------| --------:| ----------:|
-| 1 | Tue, Jan 7  |Inference in</br>one-variable regression||   |            |
-| 2 | Thu, Jan 9  |                  |               |  Hw1 out |            |
-| 3 | Tue, Jan 14 | *No class</br>make-up lecture TBA*   |          |          |            |
-| 4 | Thu, Jan 16 |                  |               |          |            |
-| 5 | Tue, Jan 21 |                  |               |          |            |
-| 6 | Thu, Jan 23 |                  |               |          | Hw1 due    |
-| 7 | Tue, Jan 28 |                  |               |Hw2 out   |            |
-| 8 | Thu, Jan 30 |Inference in</br>multiple regression||       |            |
-| 9 | Tue, Feb 4  |                  |               |          |            |
-|10 | Thu, Feb 6  |                  |               |          |            |
-|11 | Tue, Feb 11 |                  |               |          | Hw2 due</br>Proj group due| 
-|12 | Thu, Feb 13 | **Midterm**  |               |          |            |
-|13 | Tue, Feb 18 |                  |               |          |            |
-|14 | Thu, Feb 20 |                  |               |          |            |
-|15 | Tue, Feb 25 | *Project prep*|              |          |            |
-|16 | Thu, Feb 27 | **Project pitches** |            |          |Fri Feb 28</br>Proj proposal due|
-|17 | Tue, Mar 3  |  *Spring break*  |               |          |            |
-|18 | Thu, Mar 5  |  *Spring break*  |               |          |            |
-|19 | Tue, Mar 10 |*Guest lecture*</br>Designed experiments</br>and causal inference|| Hw3 out  ||
-|20 | Thu, Mar 12 |                  |               |          |            |
-|21 | Tue, Mar 17 |                  |               |          |            |
-|22 | Thu, Mar 19 |                  |               |          |            |
-|23 | Tue, Mar 24 |                  |               |          | Hw3 due    |
-|24 | Thu, Mar 26 |Non-parametric inference</br>and categorical data||Hw4 out||
-|25 | Tue, Mar 31 |              |               |          |            |
-|26 | Thu, Apr 2  |              |               |          |            |
-|27 | Tue, Apr 7  |                  |               |          |            |
-|28 | Thu, Apr 9  |                  |               |          |  Hw4 due   | 
-|29 | Tue, Apr 14 | **Final exam**  |                |          |            |
-|30 | Thu, Apr 16 | **Proj presentations**  |        |          |  Mon Apr 20</br>Proj report due  |
-|   |             |                  |               |          |  Wed, Apr 22</br>Proj review due |
+| DATE        |    | TOPIC            |READING     |      OUT |        DUE |
+| ---------   | -- |:-----------------|:--------------| --------:| ----------:|
+| Tue, Jan 7  | 1  |One-variable regression:</br>estimation| KNNL Ch 1|          |            |
+| Thu, Jan 9  | 2  |One-variable regression:</br>associations, hypothesis testing| KNNL Ch 2|  Hw1 out |            |
+| Tue, Jan 14 |    | *No class</br>make-up lecture TBA*   |          |          |            |
+| Thu, Jan 16 |    |                  |               |          |            |
+| Tue, Jan 21 |    |                  |               |          |            |
+| Thu, Jan 23 |    |                  |               |          | Hw1 due    |
+| Tue, Jan 28 |    |                  |               |Hw2 out   |            |
+| Thu, Jan 30 |    |Inference in</br>multiple regression||       |            |
+| Tue, Feb 4  |    |                  |               |          |            |
+| Thu, Feb 6  |    |                  |               |          |            |
+| Tue, Feb 11 |    |                  |               |          | Hw2 due</br>Proj group due| 
+| Thu, Feb 13 |    | **Midterm**  |               |          |            |
+| Tue, Feb 18 |    |                  |               |          |            |
+| Thu, Feb 20 |    |                  |               |          |            |
+| Tue, Feb 25 |    | *Project prep*|              |          |            |
+| Thu, Feb 27 |    | **Project pitches** |            |          |Fri Feb 28</br>Proj proposal due|
+| Tue, Mar 3  |    |  *Spring break*  |               |          |            |
+| Thu, Mar 5  |    |  *Spring break*  |               |          |            |
+| Tue, Mar 10 |    |*Guest lecture*</br>Designed experiments</br>and causal inference|| Hw3 out  ||
+| Thu, Mar 12 |    |                  |               |          |            |
+| Tue, Mar 17 |    |                  |               |          |            |
+| Thu, Mar 19 |    |                  |               |          |            |
+| Tue, Mar 24 |    |                  |               |          | Hw3 due    |
+| Thu, Mar 26 |    |Non-parametric inference</br>and categorical data||Hw4 out||
+| Tue, Mar 31 |    |              |               |          |            |
+| Thu, Apr 2  |    |              |               |          |            |
+| Tue, Apr 7  |    |                  |               |          |            |
+| Thu, Apr 9  |    |                  |               |          |  Hw4 due   | 
+| Tue, Apr 14 |    | **Final exam**  |                |          |            |
+| Thu, Apr 16 |    | **Proj presentations**  |        |          |  Mon Apr 20</br>Proj report due  |
+|             |    |                  |               |          |  Wed, Apr 22</br>Proj review due |
 </font>
 
 
