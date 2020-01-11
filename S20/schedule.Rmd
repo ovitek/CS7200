@@ -11,8 +11,8 @@ Schedule is updated dynamically throughout the semester
 | Tue, Jan 14 |    | *No class</br>make-up lecture TBA*   |          |          |            |
 | Thu, Jan 16 |    |                  |               |          |            |
 | Tue, Jan 21 |    |                  |               |          |            |
-| Thu, Jan 23 |    |                  |               |          | Hw1 due    |
-| Tue, Jan 28 |    |                  |               |Hw2 out   |            |
+| Thu, Jan 23 |    |                  |               |          |            |
+| Tue, Jan 28 |    |                  |               |Hw2 out   | Hw1 due    |
 | Thu, Jan 30 |    |Inference in</br>multiple regression||       |            |
 | Tue, Feb 4  |    |                  |               |          |            |
 | Thu, Feb 6  |    |                  |               |          |            |
