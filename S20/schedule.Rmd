@@ -10,9 +10,9 @@ Schedule is updated dynamically throughout the semester
 | Thu, Jan 9  | 2  |One-variable regression:</br>associations, hypothesis testing| KNNL Ch 2|  Hw1 out |            |
 | Tue, Jan 14 |    | *No class</br>make-up lecture TBA*   |          |          |            |
 | Thu, Jan 16 |    | Hypothesis testing |               |          | KNNL Ch. 2 |
-| Mon, Jan 20 |    | *Make-up lecture*</br>Prediction intervals | KNNL Ch. 2 |          |            |
+| Mon, Jan 20 |    | *Make-up lecture*  | KNNL Ch. 2 |          |            |
 | Tue, Jan 21 |    |                  |               |          |            |
-| Thu, Jan 23 |    |                  |               |          |            |
+| Thu, Jan 23 |    | Prediction intervals | KNNL Ch. 2  |          |            |
 | Tue, Jan 28 |    |                  |               |Hw2 out   | Hw1 due    |
 | Thu, Jan 30 |    |Inference in</br>multiple regression||       |            |
 | Tue, Feb 4  |    |                  |               |          |            |
