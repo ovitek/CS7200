@@ -16,7 +16,7 @@ Schedule is updated dynamically throughout the semester
 | Tue, Jan 28 |    |                  |               |Hw2 out   | Hw1 due    |
 | Thu, Jan 30 |    |Inference in</br>multiple regression||       |            |
 | Tue, Feb 4  |    |                  |               |          |            |
-| Thu, Feb 6  |    |                  |               |          |            |
+| Thu, Feb 6  |    |*Cody Dunne</br>project presentation* |               |          |            |
 | Tue, Feb 11 |    |                  |               |          | Hw2 due</br>Proj group due| 
 | Thu, Feb 13 |    | **Midterm**  |               |          |            |
 | Tue, Feb 18 |    |                  |               |          |            |
