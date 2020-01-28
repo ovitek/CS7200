@@ -13,7 +13,7 @@ Schedule is updated dynamically throughout the semester
 | Mon, Jan 20 |    | *Make-up lecture*  | KNNL Ch. 2 |          |            |
 | Tue, Jan 21 |    |                  |               |          |            |
 | Thu, Jan 23 |    | Prediction intervals | KNNL Ch. 2  |          |            |
-| Tue, Jan 28 |    |                  |               |Hw2 out   | Hw1 due    |
+| Tue, Jan 28 |    |  Sums of squares</br>bivariate Normal  |  KNNL Ch. 2  |Hw2 out   | Hw1 due    |
 | Thu, Jan 30 |    |Inference in</br>multiple regression||       |            |
 | Tue, Feb 4  |    |                  |               |          |            |
 | Thu, Feb 6  |    |*Cody Dunne</br>project presentation* |               |          |            |
