@@ -7,17 +7,17 @@ Schedule is updated dynamically throughout the semester
 | DATE        |    | TOPIC            |READING     |      OUT |        DUE |
 | ---------   | -- |:-----------------|:--------------| --------:| ----------:|
 | Tue, Jan 7  | 1  |One-variable regression:</br>estimation| KNNL Ch 1|          |            |
-| Thu, Jan 9  | 2  |One-variable regression:</br>associations, hypothesis testing| KNNL Ch 2|  Hw1 out |            |
+| Thu, Jan 9  | 2  |One-variable regression:</br>associations, sampling distributions| KNNL Ch 2</br>[Points of significance](https://www.nature.com/articles/nmeth.2613)|  Hw1 out |            |
 | Tue, Jan 14 |    | *No class</br>make-up lecture TBA*   |          |          |            |
-| Thu, Jan 16 |    | Hypothesis testing |               |          | KNNL Ch. 2 |
-| Mon, Jan 20 |    | *Make-up lecture*  | KNNL Ch. 2 |          |            |
-| Tue, Jan 21 |    |                  |               |          |            |
-| Thu, Jan 23 |    | Prediction intervals | KNNL Ch. 2  |          |            |
-| Tue, Jan 28 |    |  Sums of squares</br>bivariate Normal  |  KNNL Ch. 2  |Hw2 out   | Hw1 due    |
-| Thu, Jan 30 |    |Inference in</br>multiple regression||       |            |
-| Tue, Feb 4  |    |                  |               |          |            |
-| Thu, Feb 6  |    |*Cody Dunne</br>project presentation* |               |          |            |
-| Tue, Feb 11 |    |                  |               |          | Hw2 due</br>Proj group due| 
+| Thu, Jan 16 |    | Sampling distribution |  KNNL Ch. 2             |          |  |
+| Mon, Jan 20 |    | *Make-up lecture*</br>Interval estimation  | KNNL Ch. 2</br>[Points of significance](https://www.nature.com/articles/nmeth.2659) |          |            |
+| Tue, Jan 21 |    |  Hypothesis testing                |   KNNL Ch. 2</br>[Points of significance](https://www.nature.com/articles/nmeth.2698)</br>[NMethods](https://www.nature.com/articles/nmeth.3288)            |          |            |
+| Thu, Jan 23 |    | Statistical power | KNNL Ch. 2</br>[Points of significance](https://www.nature.com/articles/nmeth.2738)  |          |            |
+| Tue, Jan 28 |    |  General linear tests  |  KNNL Ch. 2, 3.7  |Hw2 out   | Hw1 due    |
+| Thu, Jan 30 |    |Regression vs correlation:<br>Bivariate Normal| KNNL Ch. 2.11|       |            |
+| Tue, Feb 4  |    |  Simultaneous inference  |  KNNL Ch. 5             |          |            |
+| Thu, Feb 6  |    |*Projects: Cody Dunne*</br>Multiple regression |  </br>KNNL Ch. 5-7             |          |            |
+| Tue, Feb 11 |    |*Project: Laura South* |               |          | Hw2 due</br>Proj group due| 
 | Thu, Feb 13 |    | **Midterm**  |               |          |            |
 | Tue, Feb 18 |    |                  |               |          |            |
 | Thu, Feb 20 |    |                  |               |          |            |
