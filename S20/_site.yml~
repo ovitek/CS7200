@@ -1,7 +1,7 @@
-name: "cs7200s20"
+name: "cs7290s17"
 output_dir: "."
 navbar:
-  title: "CS7200"
+  title: "CS7290"
   left:
     - text: "Info"
       href: index.html
