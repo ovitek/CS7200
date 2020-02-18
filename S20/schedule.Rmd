@@ -13,14 +13,14 @@ Schedule is updated dynamically throughout the semester
 | Mon, Jan 20 |    | *Make-up lecture*</br>Interval estimation  | KNNL Ch. 2</br>[Points of significance](https://www.nature.com/articles/nmeth.2659) |          |            |
 | Tue, Jan 21 |    |  Hypothesis testing                |   KNNL Ch. 2</br>[Points of significance](https://www.nature.com/articles/nmeth.2698)</br>[NMethods](https://www.nature.com/articles/nmeth.3288)            |          |            |
 | Thu, Jan 23 |    | Statistical power | KNNL Ch. 2</br>[Points of significance](https://www.nature.com/articles/nmeth.2738)  |          |            |
-| Tue, Jan 28 |    |  General linear tests  |  KNNL Ch. 2, 3.7  |Hw2 out   | Hw1 due    |
+| Tue, Jan 28 | 3  |  General linear tests  |  KNNL Ch. 2, 3.7  |Hw2 out   | Hw1 due    |
 | Thu, Jan 30 |    |Regression vs correlation:<br>Bivariate Normal| KNNL Ch. 2.11|       |            |
-| Tue, Feb 4  |    |  Simultaneous inference  |  KNNL Ch. 5             |          |            |
-| Thu, Feb 6  |    |*Projects: Cody Dunne*</br>Multiple regression |  </br>KNNL Ch. 5-7             |          |            |
+| Tue, Feb 4  | 4  |  Simultaneous inference  |  KNNL Ch. 5             |          |            |
+| Thu, Feb 6  | 5  |*Projects: Cody Dunne*</br>Multiple regression |  </br>KNNL Ch. 5-7             |          |            |
 | Tue, Feb 11 |    |*Project: Laura South* |               |          | Hw2 due</br>Proj group due| 
 | Thu, Feb 13 |    | **Midterm**  |               |          |            |
-| Tue, Feb 18 |    |                  |               |          |            |
-| Thu, Feb 20 |    |                  |               |          |            |
+| Tue, Feb 18 |    |  Multiple regression:</br>extra sums of squares           |    KNNL Ch. 7.1-7.4,</br>KNNL Ch. 10.1           |          |            |
+| Thu, Feb 20 |    | Categorical predictors                 |   KNNL Ch. 8            |          |            |
 | Tue, Feb 25 |    | *Project prep*|              |          |            |
 | Thu, Feb 27 |    | **Project pitches** |            |          |Fri Feb 28</br>Proj proposal due|
 | Tue, Mar 3  |    |  *Spring break*  |               |          |            |
