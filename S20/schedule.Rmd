@@ -19,8 +19,8 @@ Schedule is updated dynamically throughout the semester
 | Thu, Feb 6  | 5  |*Projects: Cody Dunne*</br>Multiple regression |  </br>KNNL Ch. 5-7             |          |            |
 | Tue, Feb 11 |    |*Project: Laura South* |               |          | Hw2 due</br>Proj group due| 
 | Thu, Feb 13 |    | **Midterm**  |               |          |            |
-| Tue, Feb 18 |    |  Multiple regression:</br>extra sums of squares           |    KNNL Ch. 7.1-7.4,</br>KNNL Ch. 10.1           |          |            |
-| Thu, Feb 20 |    | Categorical predictors                 |   KNNL Ch. 8            |          |            |
+| Tue, Feb 18 |    |  Extra sums of squares</br>Categorial predictors           |    KNNL Ch. 7.1-7.4,</br>KNNL Ch. 8, Ch. 10.1           |          |            |
+| Thu, Feb 20 |    | Experimental design                 |   KNNL Ch. 15-18            |          |            |
 | Tue, Feb 25 |    | *Project prep*|              |          |            |
 | Thu, Feb 27 |    | **Project pitches** |            |          |Fri Feb 28</br>Proj proposal due|
 | Tue, Mar 3  |    |  *Spring break*  |               |          |            |
