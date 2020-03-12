@@ -25,8 +25,8 @@ Schedule is updated dynamically throughout the semester
 | Thu, Feb 27 |    | **Project pitches** |            |          |Fri Feb 28</br>Proj proposal due|
 | Tue, Mar 3  |    |  *Spring break*  |               |          |            |
 | Thu, Mar 5  |    |  *Spring break*  |               |          |            |
-| Tue, Mar 10 |    |*Guest lecture*</br>Designed experiments</br>and causal inference|| Hw3 out  ||
-| Thu, Mar 12 |    |                  |               |          |            |
+| Tue, Mar 10 |    |*Guest lecture*</br>Designed experiments</br>and causal inference||  ||
+| Thu, Mar 12 |    | Designed experiments:</br>ANOVA  |  KNNL Ch.15-18             |   Hw3 out        |            |
 | Tue, Mar 17 |    |                  |               |          |            |
 | Thu, Mar 19 |    |                  |               |          |            |
 | Tue, Mar 24 |    |                  |               |          | Hw3 due    |
