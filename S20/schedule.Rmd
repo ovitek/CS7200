@@ -30,7 +30,7 @@ Schedule is updated dynamically throughout the semester
 | Tue, Mar 17 |    | Designed experiments:</br>2-factor ANOVA  |  KNNL Ch.19 |          |            |
 | Thu, Mar 19 |    | Designed experiments:</br>2-factor ANOVA  |  KNNL Ch.19 |          |            |
 | Tue, Mar 24 |    |                  |               |          | Wed Mar 25</br>Hw3 due   |
-| Thu, Mar 26 |    |Non-parametric inference</br>and categorical data||Hw4 out||
+| Thu, Mar 26 |    |||Hw4 out||
 | Tue, Mar 31 |    |              |               |          |            |
 | Thu, Apr 2  |    |              |               |          |            |
 | Tue, Apr 7  |    |                  |               |          |            |
