@@ -33,8 +33,8 @@ Schedule is updated dynamically throughout the semester
 | Thu, Mar 26 |    | Speciailzed designs| KNNL Ch. 20, 21, |||
 | Tue, Mar 31 |    | Speciailzed designs             | KNNL Ch. 23, 24, 30  |          | Hw4 out |
 | Thu, Apr 2  |    | Categorical data: associations             | Agresti Ch. 1-3</br>Faraway Ch. 4              |          |            |
-| Tue, Apr 7  |    |  Inference in logistic regression                |               |          |            |
-| Thu, Apr 9  |    |  Inference in logistic regression |          |  Sat Apr 11</br>Hw4 due   | 
+| Tue, Apr 7  |    |  Categorical data: associations                |               |          |            |
+| Thu, Apr 9  |    |  Inference in logistic regression | KNNL Ch. 14</br>Faraway Ch.2</br>Agresti Ch.5-6 |  Sat Apr 11</br>Hw4 due   | 
 | Tue, Apr 14 |    | **Final exam**  |                |          |            |
 | Thu, Apr 16 |    | **Proj presentations**  |        |          |  Mon Apr 20</br>Proj report due  |
 |             |    |                  |               |          |  Wed, Apr 22</br>Proj review due |
