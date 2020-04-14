@@ -38,7 +38,7 @@ Schedule is updated dynamically throughout the semester
 | Tue, Apr 14 |    | Inference in logistic regression  |                |          |   Tue Apr 14</br>Hw4 due |
 | Thu, Apr 16 |    | **Final exam**  |        |          |   |
 | Tue, Apr 21 |    | **Project presentations**  |                |          | Wed Apr 22</br>Proj report due  |
-|             |    |                  |               |          |  Thu, Apr 24</br>Proj review due |
+|             |    |                  |               |          |  Thu, Apr 23</br>Proj review due |
 </font>
 
 
