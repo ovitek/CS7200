@@ -13,7 +13,7 @@ Schedule is updated dynamically throughout the semester
 | Fri, Sep 24 | Statistical power</br>Sample size  | KNNL Ch2</br>[Points of significance](https://www.nature.com/articles/nmeth.2738)  |          |            |
 | Tue, Sep 28 | General linear tests</br>Regression vs correlation | KNNL Ch2, 3.7 |    | Hw1 due    |
 | Fri, Oct 1  | Simultaneous inference    | KNNL Ch4 | Hw2 out  |            |
-| Tue, Oct 5  | Multiple regression </br>and determination | KNNL Ch5-6  |          |            |
+| Tue, Oct 5  | Multiple regression  | KNNL Ch5-6  |          |            |
 | Fri, Oct 8  | Partial correlation</br> Multicollinearity     | KNNL Ch7           |       |            |
 | Tue, Oct 12 | Categorical predictors| KNNL Ch8           |          |            |
 | Fri, Oct 15 | *Exam prep*      |            |          | Hw2 due</br>Proj groups due    |
