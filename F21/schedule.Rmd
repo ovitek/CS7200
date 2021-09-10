@@ -1,44 +1,40 @@
-<h1> Statistical Methods for Computer Science, Spring 2020 </h1>
+<h1> Statistical Methods for Computer Science, Fall 2021 </h1>
 Schedule is updated dynamically throughout the semester
 </br>
 
 <font size="3">
 
-| DATE        |    | TOPIC            |READING     |      OUT |        DUE |
-| ---------   | -- |:-----------------|:--------------| --------:| ----------:|
-| Tue, Jan 7  | 1  |One-variable regression:</br>estimation| KNNL Ch 1|          |            |
-| Thu, Jan 9  | 2  |One-variable regression:</br>associations, sampling distributions| KNNL Ch 2</br>[Points of significance](https://www.nature.com/articles/nmeth.2613)|  Hw1 out |            |
-| Tue, Jan 14 |    | *No class</br>make-up lecture TBA*   |          |          |            |
-| Thu, Jan 16 |    | Sampling distribution |  KNNL Ch. 2             |          |  |
-| Mon, Jan 20 |    | *Make-up lecture*</br>Interval estimation  | KNNL Ch. 2</br>[Points of significance](https://www.nature.com/articles/nmeth.2659) |          |            |
-| Tue, Jan 21 |    |  Hypothesis testing                |   KNNL Ch. 2</br>[Points of significance](https://www.nature.com/articles/nmeth.2698)</br>[NMethods](https://www.nature.com/articles/nmeth.3288)            |          |            |
-| Thu, Jan 23 |    | Statistical power | KNNL Ch. 2</br>[Points of significance](https://www.nature.com/articles/nmeth.2738)  |          |            |
-| Tue, Jan 28 | 3  |  General linear tests  |  KNNL Ch. 2, 3.7  |Hw2 out   | Hw1 due    |
-| Thu, Jan 30 |    |Regression vs correlation:<br>Bivariate Normal| KNNL Ch. 2.11|       |            |
-| Tue, Feb 4  | 4  |  Simultaneous inference  |  KNNL Ch. 5             |          |            |
-| Thu, Feb 6  | 5  |*Projects: Cody Dunne*</br>Multiple regression |  </br>KNNL Ch. 5-7             |          |            |
-| Tue, Feb 11 |    |*Project: Laura South* |               |          | Hw2 due</br>Proj group due| 
-| Thu, Feb 13 |    | **Midterm**  |               |          |            |
-| Tue, Feb 18 |    |  Extra sums of squares</br>Categorial predictors           |    KNNL Ch. 7.1-7.4,</br>KNNL Ch. 8, Ch. 10.1           |          |            |
-| Thu, Feb 20 |    | Experimental design                 |   KNNL Ch. 15-18            |          |            |
-| Tue, Feb 25 |    | *Project prep*|              |          |            |
-| Thu, Feb 27 |    | **Project pitches** |            |          |Fri Feb 28</br>Proj proposal due|
-| Tue, Mar 3  |    |  *Spring break*  |               |          |            |
-| Thu, Mar 5  |    |  *Spring break*  |               |          |            |
-| Tue, Mar 10 |    |*Guest lecture*</br>Designed experiments</br>and causal inference||  ||
-| Thu, Mar 12 |    | Designed experiments:</br>1-factor ANOVA  |  KNNL Ch.15-18             |   Hw3 out        |            |
-| Tue, Mar 17 |    | Designed experiments:</br>2-factor ANOVA  |  KNNL Ch.19 |          |            |
-| Thu, Mar 19 |    | Designed experiments:</br>2-factor ANOVA  |  KNNL Ch.19 |          |            |
-| Tue, Mar 24 |    | 2-factor ANOVA</br>Pairwise comparisons  |  KNNL Ch.19  |          | Wed Mar 25</br>Hw3 due   |
-| Thu, Mar 26 |    | Speciailzed designs| KNNL Ch. 20, 21, |||
-| Tue, Mar 31 |    | Speciailzed designs             | KNNL Ch. 23, 24, 30  |          | Hw4 out |
-| Thu, Apr 2  |    | Categorical data: associations             | Agresti Ch. 1-3</br>Faraway Ch. 4              |          |            |
-| Tue, Apr 7  |    |  Categorical data: associations                |               |          |            |
-| Thu, Apr 9  |    |  Inference in logistic regression | KNNL Ch. 14</br>Faraway Ch.2</br>Agresti Ch.5-6 |     | 
-| Tue, Apr 14 |    | Inference in logistic regression  |                |          |   Tue Apr 14</br>Hw4 due |
-| Thu, Apr 16 |    | **Final exam**  |        |          |   |
-| Tue, Apr 21 |    | **Project presentations**  |                |          | Wed Apr 22</br>Proj report due  |
-|             |    |                  |               |          |  Thu, Apr 23</br>Proj review due |
+| DATE        | TOPIC            |READING     |      OUT |        DUE |
+| ---------   |:-----------------|:-----------| --------:| ----------:|
+| Fri, Sep 10 | Point estimation</br>Sampling distribution |  KNNL Ch1-2</br>[Points of significance](https://www.nature.com/articles/nmeth.2613)  | | |
+| Tue, Sep 14 | Point estimation </br>Sampling distribution |  KNNL Ch1-2 | Hw1 out  |            |
+| Fri, Sep 17 | Interval estimation   |  KNNL Ch 2</br>[Points of significance](https://www.nature.com/articles/nmeth.2659)  |          |            |
+| Tue, Sep 21 | Hypothesis testing </br>Statistical power |  KNNL Ch2</br>[Points of significance](https://www.nature.com/articles/nmeth.2698)</br>[NMethods](https://www.nature.com/articles/nmeth.3288)  |          |            |
+| Fri, Sep 24 | Statistical power</br>Sample size  | KNNL Ch2</br>[Points of significance](https://www.nature.com/articles/nmeth.2738)  |          |            |
+| Tue, Sep 28 | General linear tests</br>Regression vs correlation | KNNL Ch2, 3.7 |    | Hw1 due    |
+| Fri, Oct 1  | Simultaneous inference    | KNNL Ch4 | Hw2 out  |            |
+| Tue, Oct 5  | Multiple regression </br>and determination | KNNL Ch5-6  |          |            |
+| Fri, Oct 8  | Partial correlation</br> Multicollinearity     | KNNL Ch7           |       |            |
+| Tue, Oct 12 | Categorical predictors| KNNL Ch8           |          |            |
+| Fri, Oct 15 | *Exam prep*      |            |          | Hw2 due</br>Proj groups due    |
+| Tue, Oct 19 | **Midterm exam** |            |          |            |
+| Fri, Oct 22 | Designed experiments:</br>1-factor ANOVA | KNNL Ch15-18           |          |            |
+| Tue, Oct 26 | Designed experiments:</br>2-factor ANOVA | KNNL Ch19 |          |            |
+| Fri, Oct 28 | Block designs</br>Analysis of covariance | KNNL Ch21-22     |          |            |
+| Tue, Nov 2  |**Project pitches**|            | Hw3 out  |            |
+| Fri, Nov 5  | Elements of causal inference |            |          |            |
+| Tue, Nov 9  | Elements of causal inference |            |          |            |
+| Fri, Nov 12 | Elements of causal inference |            |          |            |
+| Tue, Nov 16 | Mixed effects models |            |          |Hw3 due     |
+| Fri, Nov 19 | Bayesian data anlysis |            | Hw4 out  |            |
+| Tue, Nov 23 | Bayesian data anlysis |            |          |            |
+| Fri, Nov 26 | *Thanksgiving break* ||||
+| Tue, Nov 30 | Bayesian data anlysis |            |          |            |
+| Fri, Dec 3  | *Exam prep*      |            |          |Hw4 due     |
+| Tue, Dec 7  | **Final exam**   |            |          |            |
+| Fri, Dec 10 | **Project presentations**  |  |          |            |
+| Mon, Dec 13 |                  |            |          | Project reports due           |
+| Wed, Dec 15 |                  |            |          | Project reviews due           |
 </font>
 
 
