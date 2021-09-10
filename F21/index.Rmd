@@ -23,7 +23,7 @@ Email: kohler.d@northeastern.edu</br>
 Office hours: TBA.
 
 <p><strong>Course policies and administration:</strong></br> [Syllabus](CS7200_Fall21_syllabus.pdf),  [Piazza](piazza.com/northeastern/fall2021/cs7200), 
-[Canvas](https://northeastern.blackboard.com/).</br>
+[Canvas](https://canvas.northeastern.edu/).</br>
 [Academic integrity policy](http://www.northeastern.edu/osccr/academic-integrity-policy/) is strictly enforced.</p> 
 
 <h2>Main text:</h2>
