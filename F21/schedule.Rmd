@@ -8,14 +8,14 @@ Schedule is updated dynamically throughout the semester
 | ---------   |:-----------------|:-----------| --------:| ----------:|
 | Fri, Sep 10 | Point estimation</br>Sampling distribution |  KNNL Ch1-2</br>[Points of significance](https://www.nature.com/articles/nmeth.2613)  | | |
 | Tue, Sep 14 | Point estimation </br>Sampling distribution |  KNNL Ch1-2 | Hw1 out  |            |
-| Fri, Sep 17 | Interval estimation   |  KNNL Ch 2</br>[Points of significance](https://www.nature.com/articles/nmeth.2659)  |          |            |
-| Tue, Sep 21 | Hypothesis testing </br>Statistical power |  KNNL Ch2</br>[Points of significance](https://www.nature.com/articles/nmeth.2698)</br>[NMethods](https://www.nature.com/articles/nmeth.3288)  |          |            |
-| Fri, Sep 24 | Sample size</br>Prediction  | KNNL Ch2</br>[Points of significance](https://www.nature.com/articles/nmeth.2738)  |          |            |
-| Tue, Sep 28 | General linear tests</br>Regression vs correlation | KNNL Ch2, 3.7 |    | Hw1 due    |
+| Fri, Sep 17 | Inference:</br>Interval estimation   |  KNNL Ch 2</br>[Points of significance](https://www.nature.com/articles/nmeth.2659)  |          |            |
+| Tue, Sep 21 | Inference:</br>Hypothesis testing </br>Statistical power |  KNNL Ch2</br>[Points of significance](https://www.nature.com/articles/nmeth.2698)</br>[NMethods](https://www.nature.com/articles/nmeth.3288)  |          |            |
+| Fri, Sep 24 | Inference:</br>Sample size</br>Prediction  | KNNL Ch2</br>[Points of significance](https://www.nature.com/articles/nmeth.2738)  |          |            |
+| Tue, Sep 28 | Modeling:</br>General linear tests</br>Regression vs correlation | KNNL Ch2, 3.7 |    | Hw1 due    |
 | Fri, Oct 1  | Simultaneous inference    | KNNL Ch4 | Hw2 out  |            |
-| Tue, Oct 5  | Multiple regression  | KNNL Ch5-6  |          |            |
-| Fri, Oct 8  | Partial correlation</br> Multicollinearity     | KNNL Ch7           |       |            |
-| Tue, Oct 12 | Categorical predictors| KNNL Ch8           |          |            |
+| Tue, Oct 5  | Topics in regression:</br>Multiple regression  | KNNL Ch5-6  |          |            |
+| Fri, Oct 8  | Topics in regression:</br>Partial correlation</br> Multicollinearity     | KNNL Ch7  |   ||
+| Tue, Oct 12 | Topics in regression:</br>Categorical predictors| KNNL Ch8           |          |            |
 | Fri, Oct 15 | *Exam prep*      |            |          | Hw2 due</br>Proj groups due    |
 | Tue, Oct 19 | **Midterm exam** |            |          |            |
 | Fri, Oct 22 | Designed experiments:</br>1-factor ANOVA | KNNL Ch15-18           |          |            |
