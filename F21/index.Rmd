@@ -14,7 +14,7 @@ The course discusses the following topics:
 - Introduction to Bayesian data analysis: model specification, estimation, checking and inference.
 
 <p><strong>Instructor:</strong> [Prof. Olga Vitek](http://olga-vitek-lab.ccis.northeastern.edu/)</br>
-Email: o.vitek@neu.edu</br>
+Email: o.vitek@northeastern.edu</br>
 Office hours: Tue and Fri after the class, or by appointment. 177 Huntington Ave, 9th floor.</p>
 
 <p><strong>Teaching assistants:</strong></br>
@@ -22,7 +22,8 @@ Office hours: Tue and Fri after the class, or by appointment. 177 Huntington Ave
 Email: kohler.d@northeastern.edu</br>
 Office hours: TBA.
 
-<p><strong>Course policies and administration:</strong></br> [Syllabus](CS7200_Spring20_syllabus.pdf),  [Piazza](http://piazza.com/northeastern/spring2020/cs7200), [Canvas](https://northeastern.blackboard.com/).</br>
+<p><strong>Course policies and administration:</strong></br> [Syllabus](CS7200_Fall21_syllabus.pdf),  [Piazza](piazza.com/northeastern/fall2021/cs7200), 
+[Canvas](https://northeastern.blackboard.com/).</br>
 [Academic integrity policy](http://www.northeastern.edu/osccr/academic-integrity-policy/) is strictly enforced.</p> 
 
 <h2>Main text:</h2>
