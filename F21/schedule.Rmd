@@ -6,8 +6,8 @@ Schedule is updated dynamically throughout the semester
 
 | DATE        | TOPIC            |READING     |      OUT |        DUE |
 | ---------   |:-----------------|:-----------| --------:| ----------:|
-| Fri, Sep 10 | Point estimation</br>Sampling distribution |  KNNL Ch1-2</br>[Points of significance](https://www.nature.com/articles/nmeth.2613)  | | |
-| Tue, Sep 14 | Point estimation </br>Sampling distribution |  KNNL Ch1-2 | Hw1 out  |            |
+| Fri, Sep 10 | Point estimation |  KNNL Ch1-2</br>[Points of significance](https://www.nature.com/articles/nmeth.2613)  | | |
+| Tue, Sep 14 | Sampling distribution |  KNNL Ch1-2 | Hw1 out  |            |
 | Fri, Sep 17 | Inference:</br>Interval estimation   |  KNNL Ch 2</br>[Points of significance](https://www.nature.com/articles/nmeth.2659)  |          |            |
 | Tue, Sep 21 | Inference:</br>Hypothesis testing </br>Statistical power |  KNNL Ch2</br>[Points of significance](https://www.nature.com/articles/nmeth.2698)</br>[NMethods](https://www.nature.com/articles/nmeth.3288)  |          |            |
 | Fri, Sep 24 | Inference:</br>Sample size</br>Prediction  | KNNL Ch2</br>[Points of significance](https://www.nature.com/articles/nmeth.2738)  |          |            |
