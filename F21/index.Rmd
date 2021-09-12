@@ -20,7 +20,7 @@ Office hours: Tue and Fri after the class, or by appointment. 177 Huntington Ave
 <p><strong>Teaching assistants:</strong></br>
 [Mr. Devon Koller](https://www.linkedin.com/in/sicheng-hao-0a9481b2/), 
 Email: kohler.d@northeastern.edu</br>
-Office hours: TBA.
+Office hours: Mon and Thu 12:00-1:00, or by appointment.
 
 <p><strong>Course policies and administration:</strong></br> [Syllabus](CS7200_Fall21_syllabus.pdf),  [Piazza](piazza.com/northeastern/fall2021/cs7200), 
 [Canvas](https://canvas.northeastern.edu/).</br>
