@@ -25,8 +25,8 @@ Schedule is updated dynamically throughout the semester
 | Fri, Nov 5  | Elements of causal inference |            |          |            |
 | Tue, Nov 9  | Elements of causal inference |            |          | Proj proposals due  |
 | Fri, Nov 12 | Elements of causal inference |            |          |            |
-| Tue, Nov 16 | Mixed effects models |            |          |Hw3 due     |
-| Fri, Nov 19 | Bayesian data anlysis |            | Hw4 out  |            |
+| Tue, Nov 16 | Mixed effects models |            |          |     |
+| Fri, Nov 19 | Bayesian data anlysis |            | Hw4 out  | Hw3 due  |
 | Tue, Nov 23 | Bayesian data anlysis |            |          |            |
 | Fri, Nov 26 | *Thanksgiving break* ||||
 | Tue, Nov 30 | Bayesian data anlysis |            |          |            |
