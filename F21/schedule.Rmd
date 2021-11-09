@@ -18,18 +18,18 @@ Schedule is updated dynamically throughout the semester
 | Tue, Oct 12 | Topics in regression:</br>Categorical predictors| KNNL Ch8           |          |            |
 | Fri, Oct 15 | *Exam prep*      |            |          | Hw2 due</br>Proj groups due    |
 | Tue, Oct 19 | **Midterm exam** |            |          |            |
-| Fri, Oct 22 | Designed experiments:</br>1-factor ANOVA | KNNL Ch15-18           |          |            |
-| Tue, Oct 26 | Designed experiments:</br>2-factor ANOVA | KNNL Ch19 |          |            |
-| Fri, Oct 28 | Block designs</br>Analysis of covariance | KNNL Ch21-22     |          |            |
+| Fri, Oct 22 | Bootstrap | KNNL 11.5           |          |            |
+| Tue, Oct 26 | Designed experiments:</br>1-factor ANOVA | KNNL Ch15-18 |          |            |
+| Fri, Oct 28 | Designed experiments:</br>1-factor ANOVA | KNNL Ch15-182     |          |            |
 | Tue, Nov 2  |**Project pitches**|            | Hw3 out  |            |
-| Fri, Nov 5  | Elements of causal inference |            |          |            |
-| Tue, Nov 9  | Elements of causal inference |            |          | Proj proposals due  |
-| Fri, Nov 12 | Elements of causal inference |            |          |            |
-| Tue, Nov 16 | Mixed effects models |            |          |     |
-| Fri, Nov 19 | Bayesian data anlysis |            | Hw4 out  | Hw3 due  |
-| Tue, Nov 23 | Bayesian data anlysis |            |          |            |
+| Fri, Nov 5  | Designed experiments:</br>2-factor ANOVA | KNNL Ch19 |          |            |
+| Tue, Nov 9  | Designed experiments:</br>2-factor ANOVA | KNNL Ch19 |          | Proj proposals due  |
+| Fri, Nov 12 | Block designs</br>Analysis of covariance | KNNL Ch21-22 |          |            |
+| Tue, Nov 16 | TBD |            |          |     |
+| Fri, Nov 19 | TBD |            | Hw4 out  | Hw3 due  |
+| Tue, Nov 23 | TBD |            |          |            |
 | Fri, Nov 26 | *Thanksgiving break* ||||
-| Tue, Nov 30 | Bayesian data anlysis |            |          |            |
+| Tue, Nov 30 | TBD |            |          |            |
 | Fri, Dec 3  | *Exam prep*      |            |          |Hw4 due     |
 | Tue, Dec 7  | **Final exam**   |            |          |            |
 | Fri, Dec 10 | **Project presentations**  |  |          |            |
