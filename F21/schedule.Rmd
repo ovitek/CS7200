@@ -27,9 +27,9 @@ Schedule is updated dynamically throughout the semester
 | Fri, Nov 12 | Block designs | KNNL Ch21-22 |          |            |
 | Tue, Nov 16 | Analysis of covariance,</br>mixed models |  KNNL Ch25</br>Faraway Ch8</br>Rao Ch14          |          |     |
 | Fri, Nov 19 | Analysis of covariance,</br>mixed models |            |   | Hw3 due</br>Sun Nov 21  |
-| Tue, Nov 23 | Causal inference |  [Ref](https://matheusfacure.github.io/python-causality-handbook/landing-page.html)  | Hw4 out   |            |
+| Tue, Nov 23 | Causal inference |  [Ref](https://matheusfacure.github.io/python-causality-handbook/landing-page.html) Ch 1,2,4,7 | Hw4 out   |            |
 | Fri, Nov 26 | *Thanksgiving break* ||||
-| Tue, Nov 30 | Causal inference |  [Ref](https://matheusfacure.github.io/python-causality-handbook/landing-page.html) |          |            |
+| Tue, Nov 30 | Causal inference |  [Ref](https://matheusfacure.github.io/python-causality-handbook/landing-page.html) Ch 7, 10, 11 |          |            |
 | Fri, Dec 3  | *Exam prep*      |            |          |Hw4 due     |
 | Tue, Dec 7  | **Final exam**   |            |          |            |
 | Fri, Dec 10 | **Project presentations**  |  |          |            |
