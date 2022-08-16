@@ -1,0 +1,34 @@
+<h1> Statistical Methods for Computer Science, Fall 2021 </h1>
+<h2>Tue and Fri 9:50am-11:30am, Hastings Suite 114</h2>
+
+The course introduces methods of statistical inference, useful in any area of science that collects and analyzes data. The course discusses the methodological foundations, as well as issues of practical implementation and use. Methods discussed in this class are applicable to a broad range of problems, from design and analysis of empirical studies of complex real-life phenomena, to design and analysis of evaluations of computer experiments or computer science research. The coursework includes a term project involving method implementation and/or work with real-life investigations.
+
+The course discusses the following topics:
+
+- Basics of frequentist statistical inference for continuous data: measures of association, confidence and prediction intervals, hypothesis testing, benefits and limitations of p-values.
+
+- Experimental design: ways to include data to the study to maximize its statistical efficiency, and strategies for analysis of the designed experiments. Factorial and randomized block designs, linear mixed effects models, and response surface exploration.
+
+- Introduction to causal inference: graphical models, adjustments for confounders, interventions and counterfactual inference.
+
+- Introduction to Bayesian data analysis: model specification, estimation, checking and inference.
+
+<p><strong>Instructor:</strong> [Prof. Olga Vitek](http://olga-vitek-lab.ccis.northeastern.edu/)</br>
+Email: o.vitek@northeastern.edu</br>
+Office hours: Tue and Fri after the class, or by appointment. 177 Huntington Ave, 9th floor.</p>
+
+<p><strong>Teaching assistants:</strong></br>
+[Mr. Devon Koller](https://www.linkedin.com/in/sicheng-hao-0a9481b2/), 
+Email: kohler.d@northeastern.edu</br>
+Office hours: Mon and Thu 12:00-1:00, or by appointment. 177 Huntington Ave, 9th floor.
+
+<p><strong>Course policies and administration:</strong></br> [Syllabus](CS7200_Fall21_syllabus.pdf),  [Piazza](piazza.com/northeastern/fall2021/cs7200), 
+[Canvas](https://canvas.northeastern.edu/).</br>
+[Academic integrity policy](http://www.northeastern.edu/osccr/academic-integrity-policy/) is strictly enforced.</p> 
+
+<h2>Main text:</h2>
+<p>(KNNL) [Applied Linear Statistical Models](https://www.amazon.com/Applied-Linear-Statistical-Models-2013/dp/1259064743/). Kutner, Neter, Nachtsheim, Li, McGraw-Hill, 5th Edition, 2004. [Website](http://users.stat.ufl.edu/~rrandles/sta4210/Rclassnotes/data/textdatasets/index.html).</br>
+(Pearl) [Causal Inference in Statistics - A Primer](https://www.amazon.com/Causal-Inference-Statistics-Judea-Pearl/dp/1119186846). Pearl, Glymour, Jewell, Wiley, 2016. [Website](http://bayes.cs.ucla.edu/PRIMER/). </br>
+(Gelman) [Bayesian Data Analysis](https://www.amazon.com/Bayesian-Analysis-Chapman-Statistical-Science/dp/1439840954). Gelman, Carlin, Stern, Dunson, Vehtari, Rubin. CRC Press,  3rd Edition, 2014. [Website](http://www.stat.columbia.edu/~gelman/book/).  </br>
+Additional texts will be posted dynamically on Piazza
+</p>
