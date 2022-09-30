@@ -17,7 +17,7 @@ Schedule is updated dynamically throughout the semester
 | Fri, Oct 7  | Topics in regression:</br>Partial correlation</br> Multicollinearity     | KNNL Ch7  |   ||
 | Tue, Oct 11 | Topics in regression:</br>Categorical predictors |  KNNL Ch8  |          |  |
 | Fri, Oct 14 | *Exam prep*      |            |          | Hw2 due</br>Proj groups due |
-| Tue, Oct 18 | **Midterm exam**| KNNL Ch8 |     | |
+| Tue, Oct 18 | **Midterm exam**|  |     | |
 | Fri, Oct 21 | Designed experiments:</br>1-factor ANOVA | KNNL Ch15-18           |  Hw3 out |            |
 | Tue, Oct 25 | Designed experiments:</br>1-factor ANOVA | KNNL Ch15-182 |          |            |
 | Fri, Oct 28 | **No class**</br>*Project pitches prep* |     |          |            |
