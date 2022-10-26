@@ -24,8 +24,8 @@ Schedule is updated dynamically throughout the semester
 | Tue, Nov 1  |**Project pitches**|            |   |            |
 | Fri, Nov 4  | Designed experiments:</br>2-factor ANOVA | KNNL Ch19 |          |            |
 | Tue, Nov 8  | Block designs | KNNL Ch21-22 |          | Proj proposals due  |
-| Fri, Nov 11 | **Veteran's day, no class** | |  Hw3 due  |            |
-| Tue, Nov 15 | Analysis of covariance,</br>mixed models |  KNNL Ch25</br>Faraway Ch8</br>Rao Ch14          | Hw4 out  |     |
+| Fri, Nov 11 | **Veteran's day, no class** | |    |            |
+| Tue, Nov 15 | Analysis of covariance,</br>mixed models |  KNNL Ch25</br>Faraway Ch8</br>Rao Ch14          | Hw4 out  | Hw3 due |
 | Fri, Nov 18 | Analysis of covariance,</br>mixed models |            |   |   |
 | Tue, Nov 22 | Causal inference |  [Ref](https://matheusfacure.github.io/python-causality-handbook/landing-page.html) Ch 1,2,4,7 |    |            |
 | Fri, Nov 24 | *Thanksgiving break* ||||
