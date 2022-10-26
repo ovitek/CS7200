@@ -18,13 +18,13 @@ Schedule is updated dynamically throughout the semester
 | Tue, Oct 11 | Topics in regression:</br>Categorical predictors |  KNNL Ch8  |          |  |
 | Fri, Oct 14 | *Exam prep*      |            |          | Hw2 due</br>Proj groups due |
 | Tue, Oct 18 | **Midterm exam**|  |     | |
-| Fri, Oct 21 | Weighted regression</br>and bootstrap | KNNL Ch11           |  Hw3 out |            |
-| Tue, Oct 25 | Designed experiments:</br>1-factor ANOVA | KNNL Ch15-18 |          |            |
+| Fri, Oct 21 | Weighted regression</br>and bootstrap | KNNL Ch11           |   |            |
+| Tue, Oct 25 | Designed experiments:</br>1-factor ANOVA | KNNL Ch15-18 |   Hw3 out  |            |
 | Fri, Oct 28 | **No class**</br>*Project pitches prep* |     |          |            |
 | Tue, Nov 1  |**Project pitches**|            |   |            |
 | Fri, Nov 4  | Designed experiments:</br>2-factor ANOVA | KNNL Ch19 |          |            |
-| Tue, Nov 8  | Block designs | KNNL Ch21-22 |          | Hw3 due</br>Proj proposals due  |
-| Fri, Nov 11 | **Veteran's day, no class** | |          |            |
+| Tue, Nov 8  | Block designs | KNNL Ch21-22 |          | Proj proposals due  |
+| Fri, Nov 11 | **Veteran's day, no class** | |  Hw3 due  |            |
 | Tue, Nov 15 | Analysis of covariance,</br>mixed models |  KNNL Ch25</br>Faraway Ch8</br>Rao Ch14          | Hw4 out  |     |
 | Fri, Nov 18 | Analysis of covariance,</br>mixed models |            |   |   |
 | Tue, Nov 22 | Causal inference |  [Ref](https://matheusfacure.github.io/python-causality-handbook/landing-page.html) Ch 1,2,4,7 |    |            |
