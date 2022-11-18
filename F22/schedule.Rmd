@@ -23,13 +23,13 @@ Schedule is updated dynamically throughout the semester
 | Fri, Oct 28 | **No class**</br>*Project pitches prep* |     |          |            |
 | Tue, Nov 1  |**Project pitches**|            |   |            |
 | Fri, Nov 4  | Designed experiments:</br>2-factor ANOVA | KNNL Ch19 |          |            |
-| Tue, Nov 8  | Block designs | KNNL Ch21-22 |          | Proj proposals due  |
+| Tue, Nov 8  | Designed experiments:</br>2-factor ANOVA | KNNL Ch19 |          | Proj proposals due  |
 | Fri, Nov 11 | **Veteran's day, no class** | |    |            |
-| Tue, Nov 15 | Analysis of covariance,</br>mixed models |  KNNL Ch25</br>Faraway Ch8</br>Rao Ch14          | Hw4 out  | Hw3 due |
-| Fri, Nov 18 | Analysis of covariance,</br>mixed models |            |   |   |
-| Tue, Nov 22 | Causal inference |  [Ref](https://matheusfacure.github.io/python-causality-handbook/landing-page.html) Ch 1,2,4,7 |    |            |
+| Tue, Nov 15 | Block designs | KNNL Ch21-22          | | |
+| Fri, Nov 18 | Logistic regression |KNNL Ch14      |Hw4 out  | Hw3 due|
+| Tue, Nov 22 | Logistic regression |KNNL Ch14   |    |            |
 | Fri, Nov 24 | *Thanksgiving break* ||||
-| Tue, Nov 29 | Causal inference |  [Ref](https://matheusfacure.github.io/python-causality-handbook/landing-page.html) Ch 7, 10, 11 |          |            |
+| Tue, Nov 29 | Causal inference |  [Ref](https://matheusfacure.github.io/python-causality-handbook/landing-page.html) Ch 1,2,4,7 |          |            |
 | Fri, Dec 2  | *Exam prep*      |            |          |Hw4 due     |
 | Tue, Dec 6  | **Final exam**   |            |          |            |
 | Fri, Dec 9 | **Project presentations**  |  |          |            |
