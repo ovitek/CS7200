@@ -29,7 +29,7 @@ Schedule is updated dynamically throughout the semester
 | Fri, Nov 18 | Logistic regression |KNNL Ch14      |Hw4 out  | Hw3 due|
 | Tue, Nov 22 | Logistic regression |KNNL Ch14   |    |            |
 | Fri, Nov 24 | *Thanksgiving break* ||||
-| Tue, Nov 29 | Causal inference |  [Ref](https://matheusfacure.github.io/python-causality-handbook/landing-page.html) Ch 1,2,4,7 |          |            |
+| Tue, Nov 29 | Logistic regression wrap-up |   |          |            |
 | Fri, Dec 2  | *Exam prep*      |            |          |Hw4 due  Dec 4   |
 | Tue, Dec 6  | **Final exam**   |            |          |            |
 | Fri, Dec 9 | **Project presentations**  |  |          |            |
