@@ -1,4 +1,4 @@
-<h1> Statistical Methods for Computer Science, Fall 2022 </h1>
+<h1> Statistical Methods for Computer Science, Fall 2023 </h1>
 Schedule is updated dynamically throughout the semester
 </br>
 

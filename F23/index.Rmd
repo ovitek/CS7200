@@ -1,5 +1,5 @@
-<h1> Statistical Methods for Computer Science, Fall 2022 </h1>
-<h2>Tue and Fri 9:50am-11:30am, Hastings Suite 114</h2>
+<h1> Statistical Methods for Computer Science, Fall 2023 </h1>
+<h2>Tue and Fri 9:50am-11:30am, Hayden Hall 425</h2>
 
 The course introduces methods of statistical inference, useful in any area of science that collects and analyzes data. The course discusses the methodological foundations, as well as issues of practical implementation and use. Methods discussed in this class are applicable to a broad range of problems, from design and analysis of empirical studies of complex real-life phenomena, to design and analysis of evaluations of computer experiments or computer science research. The coursework includes a term project involving method development, implementation and/or work with real-life investigations.
 
