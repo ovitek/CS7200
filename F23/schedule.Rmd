@@ -1,0 +1,44 @@
+<h1> Statistical Methods for Computer Science, Fall 2022 </h1>
+Schedule is updated dynamically throughout the semester
+</br>
+
+<font size="3">
+
+| DATE        | TOPIC            |READING     |      OUT |        DUE |
+| ---------   |:-----------------|:-----------| --------:| ----------:|
+| Fri, Sep 9  | Point estimation |  KNNL Ch1-2</br>[Points of significance](https://www.nature.com/articles/nmeth.2613)  | Hw1 out | |
+| Tue, Sep 13 | Sampling distribution |  KNNL Ch1-2 |   |            |
+| Fri, Sep 16 | Inference:</br>Interval estimation   |  KNNL Ch 2</br>[Points of significance](https://www.nature.com/articles/nmeth.2659)  |          |            |
+| Tue, Sep 20 | Inference:</br>Hypothesis testing </br>Statistical power |  KNNL Ch2</br>[Points of significance](https://www.nature.com/articles/nmeth.2698)</br>[NMethods](https://www.nature.com/articles/nmeth.3288)  |          |            |
+| Fri, Sep 23 | Inference:</br>Sample size</br>Prediction  | KNNL Ch2</br>[Points of significance](https://www.nature.com/articles/nmeth.2738)  |          |            |
+| Tue, Sep 27 | Topics in regression:</br>General linear tests</br>Regression vs correlation | KNNL Ch2, 3.7 |  | Hw1 due    |
+| Fri, Sep 30 | Simultaneous inference    | KNNL Ch4 |   |            |
+| Tue, Oct 4  | Topics in regression:</br>Multiple regression  | KNNL Ch5-6  |   Hw2 out   |            |
+| Fri, Oct 7  | Topics in regression:</br>Partial correlation</br> Multicollinearity     | KNNL Ch7  |   ||
+| Tue, Oct 11 | Topics in regression:</br>Categorical predictors |  KNNL Ch8  |          |  |
+| Fri, Oct 14 | *Exam prep*      |            |          | Hw2 due</br>Proj groups due |
+| Tue, Oct 18 | **Midterm exam**|  |     | |
+| Fri, Oct 21 | Weighted regression</br>and bootstrap | KNNL Ch11           |   |            |
+| Tue, Oct 25 | Designed experiments:</br>1-factor ANOVA | KNNL Ch15-18 |   Hw3 out  |            |
+| Fri, Oct 28 | **No class**</br>*Project pitches prep* |     |          |            |
+| Tue, Nov 1  |**Project pitches**|            |   |            |
+| Fri, Nov 4  | Designed experiments:</br>2-factor ANOVA | KNNL Ch19 |          |            |
+| Tue, Nov 8  | Designed experiments:</br>2-factor ANOVA | KNNL Ch19 |          | Proj proposals due  |
+| Fri, Nov 11 | **Veteran's day, no class** | |    |            |
+| Tue, Nov 15 | Block designs | KNNL Ch21-22          | | |
+| Fri, Nov 18 | Logistic regression |KNNL Ch14      |Hw4 out  | Hw3 due|
+| Tue, Nov 22 | Logistic regression |KNNL Ch14   |    |            |
+| Fri, Nov 24 | *Thanksgiving break* ||||
+| Tue, Nov 29 | Logistic regression wrap-up |   |          |            |
+| Fri, Dec 2  | *Exam prep*      |            |          |Hw4 due  Dec 4   |
+| Tue, Dec 6  | **Final exam**   |            |          |            |
+| Fri, Dec 9 | **Project presentations**  |  |          |            |
+| Mon, Dec 12 |                  |            |          | Project reports due           |
+| Wed, Dec 14 |                  |            |          | Project reviews due           |
+</font>
+
+
+
+
+
+
