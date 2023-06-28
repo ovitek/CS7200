@@ -12,24 +12,24 @@ Schedule is updated dynamically throughout the semester
 | Tue, Sep 19 | Inference:</br>Hypothesis testing </br>Statistical power |  KNNL Ch2</br>[Points of significance](https://www.nature.com/articles/nmeth.2698)</br>[NMethods](https://www.nature.com/articles/nmeth.3288)  |          |            |
 | Fri, Sep 22 | Inference:</br>Sample size</br>Prediction  | KNNL Ch2</br>[Points of significance](https://www.nature.com/articles/nmeth.2738)  |          |  Hw1 due          |
 | Tue, Sep 26 | Topics in regression:</br>General linear tests</br>Regression vs correlation | KNNL Ch2, 3.7 | Hw2 out  |    |
-| Fri, Sep 29 | Simultaneous inference    | KNNL Ch4 |   |            |
-| Tue, Oct 3  | Topics in regression:</br>Multiple regression </br>Partial correlation</br> Multicollinearity      | KNNL Ch5-7  |      |          |
+| Fri, Sep 29 | Topics in regression:</br>Partial correlation</br> Multicollinearity      | KNNL Ch5-7 |   |            |
+| Tue, Oct 3  | Weighted regression</br>and bootstrap | KNNL Ch11  |      |          |
 | Fri, Oct 6  | **No class, exam prep** |  |   |  Hw2 due</br>Proj groups due |
 | Tue, Oct 10 | **Midterm exam** |   |          |  |
 | Fri, Oct 13 | *Proj discussion on Zoom*      |            |          |  |
 | Tue, Oct 17 |  **No class, proj prep** |  |   | |
 | Fri, Oct 20 | **Proj pitches**|           |   |            |
-| Tue, Oct 24 | Weighted regression</br>and bootstrap | KNNL Ch11 |    |            |
-| Fri, Oct 27 |  Topics in regression:</br>Categorical predictors |  KNNL Ch8 | | Proj proposals due         |
-| Tue, Oct 31 |Designed experiments:</br>1-factor ANOVA | KNNL Ch15-18 | Hw3 out  |            |
-| Fri, Nov 3  | Designed experiments:</br>2-factor ANOVA | KNNL Ch19 |          |            |
-| Tue, Nov 7  | Designed experiments:</br>2-factor ANOVA | KNNL Ch19 |          |   |
+| Tue, Oct 24 | Topics in regression:</br>Categorical predictors</br>Designed experiments:</br>1-factor ANOVA</br>Analysis of covariance |  KNNL Ch8</br>KNNL Ch15-18 |    |            |
+| Fri, Oct 27 | Designed experiments:</br>2-factor ANOVA | KNNL Ch19 | | Proj proposals due         |
+| Tue, Oct 31 | Designed experiments:</br>2-factor ANOVA | KNNL Ch19 | Hw3 out  |            |
+| Fri, Nov 3  | Block designs | KNNL Ch21-22 |          |            |
+| Tue, Nov 7  | Mixed models | KNNL Ch25</br>Faraway Ch8</br>Rao Ch14 |          |   |
 | Fri, Nov 10 | **No class, Veteran's day** | |    |            |
-| Tue, Nov 14 | Block designs | KNNL Ch21-22          | | Hw3 due|
-| Fri, Nov 17 | Logistic regression |KNNL Ch14      |Hw4 out  | |
-| Tue, Nov 21 | Logistic regression |KNNL Ch14   |    |            |
+| Tue, Nov 14 | Causal inference |[Ref](https://matheusfacure.github.io/python-causality-handbook/landing-page.html) Ch 1,2,4,7          | | Hw3 due|
+| Fri, Nov 17 | Causal inference |[Ref](https://matheusfacure.github.io/python-causality-handbook/landing-page.html) Ch 1,2,4,7 |Hw4 out  | |
+| Tue, Nov 21 | Causal inference | [Ref](https://matheusfacure.github.io/python-causality-handbook/landing-page.html) Ch 7, 10, 11   |    |            |
 | Fri, Nov 24 | **No class, Thanksgiving break** ||||
-| Tue, Nov 28 | Logistic regression wrap-up |   |          |            |
+| Tue, Nov 28 | Causal inference | [Ref](https://matheusfacure.github.io/python-causality-handbook/landing-page.html) Ch 7, 10, 11  |          |            |
 | Fri, Dec 1  | *Exam prep*      |            |          |Hw4 due   |
 | Tue, Dec 5  | **Final exam**   |            |          |            |
 | Fri, Dec 8 | **Project presentations**  |  |          |            |
