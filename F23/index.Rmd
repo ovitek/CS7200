@@ -18,11 +18,11 @@ Email: o.vitek@northeastern.edu</br>
 Office hours: Tue and Fri after the class, or by appointment. 177 Huntington Ave, 9th floor.</p>
 
 <p><strong>Teaching assistants:</strong></br>
-[Mr. Ritwik Anand](https://www.khoury.northeastern.edu/people/ritwik-anand/), 
-Email: anand.ri@northeastern.edu</br>
-Office hours: Wed 3-4 and Thu 3-4, or by appointment. 177 Huntington Ave, 9th floor.
+[Mr. Ethan Rogers](https://www.khoury.northeastern.edu/people/ritwik-anand/), 
+Email: rogers.eth@northeastern.edu</br>
+Office hours: TBD, or by appointment. 177 Huntington Ave, 9th floor.
 
-<p><strong>Course policies and administration:</strong></br> [Syllabus](CS7200_Fall22_syllabus.pdf),  [Piazza](https://piazza.com/northeastern/fall2022/cs7200), 
+<p><strong>Course policies and administration:</strong></br> [Syllabus](CS7200_Fall23_syllabus.pdf),  [Piazza](https://piazza.com/northeastern/fall2023/cs7200), 
 [Canvas](https://canvas.northeastern.edu/).</br>
 [Academic integrity policy](http://www.northeastern.edu/osccr/academic-integrity-policy/) is strictly enforced.</p> 
 
