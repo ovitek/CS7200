@@ -20,7 +20,7 @@ Office hours: Tue and Fri after the class, or by appointment. 177 Huntington Ave
 <p><strong>Teaching assistants:</strong></br>
 [Mr. Ethan Rogers](https://www.khoury.northeastern.edu/people/ritwik-anand/), 
 Email: rogers.eth@northeastern.edu</br>
-Office hours: TBD, or by appointment. 177 Huntington Ave, 9th floor.
+Office hours: Thursdays 1-2:30pm, or by appointment. 177 Huntington Ave, 9th floor.
 
 <p><strong>Course policies and administration:</strong></br> [Syllabus](CS7200_Fall23_syllabus.pdf),  [Piazza](https://piazza.com/northeastern/fall2023/cs7200), 
 [Canvas](https://canvas.northeastern.edu/).</br>
