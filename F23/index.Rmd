@@ -20,11 +20,11 @@ Office hours: Tue and Fri after the class, or by appointment. 177 Huntington Ave
 <p><strong>Teaching assistants:</strong></br>
 [Mr. Ethan Rogers](https://www.khoury.northeastern.edu/people/ritwik-anand/), 
 Email: rogers.eth@northeastern.edu</br>
-Office hours: Thursdays 1-2:30pm, or by appointment. 177 Huntington Ave, 9th floor.
+Office hours: Thursdays 1-2:30pm, Hastings 102; or by appointment, 177 Huntington Ave, 9th floor.
 
-<p><strong>Course policies and administration:</strong></br> [Syllabus](CS7200_Fall23_syllabus.pdf),  [Piazza](https://piazza.com/northeastern/fall2023/cs7200), 
+<p><strong>Course policies and administration:</strong></br> [Syllabus](CS7200_Fall23_syllabus.pdf),  [Piazza](https://piazza.com/northeastern/fall2023/cs720016852202410), 
 [Canvas](https://canvas.northeastern.edu/).</br>
-[Academic integrity policy](http://www.northeastern.edu/osccr/academic-integrity-policy/) is strictly enforced.</p> 
+[Academic integrity policy](https://osccr.sites.northeastern.edu/academic-integrity-policy/) is strictly enforced.</p> 
 
 <h2>Main text:</h2>
 <p>(KNNL) [Applied Linear Statistical Models](https://www.amazon.com/Applied-Linear-Statistical-Models-2013/dp/1259064743/). Kutner, Neter, Nachtsheim, Li, McGraw-Hill, 5th Edition, 2004. [Website](http://users.stat.ufl.edu/~rrandles/sta4210/Rclassnotes/data/textdatasets/index.html).</br>
