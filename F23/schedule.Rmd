@@ -10,8 +10,8 @@ Schedule is updated dynamically throughout the semester
 | Tue, Sep 12 | Sampling distribution |  KNNL Ch1-2 | Hw1 out  |            |
 | Fri, Sep 15 | Inference:</br>Interval estimation   |  KNNL Ch 2</br>[Points of significance](https://www.nature.com/articles/nmeth.2659)  |          |            |
 | Tue, Sep 19 | Inference:</br>Hypothesis testing </br>Statistical power |  KNNL Ch2</br>[Points of significance](https://www.nature.com/articles/nmeth.2698)</br>[NMethods](https://www.nature.com/articles/nmeth.3288)  |          |            |
-| Fri, Sep 22 | Inference:</br>Sample size</br>Prediction  | KNNL Ch2</br>[Points of significance](https://www.nature.com/articles/nmeth.2738)  |          |  Hw1 due          |
-| Tue, Sep 26 | Topics in regression:</br>General linear tests</br>Regression vs correlation | KNNL Ch2, 3.7 | Hw2 out  |    |
+| Fri, Sep 22 | Inference:</br>Sample size</br>Prediction  | KNNL Ch2</br>[Points of significance](https://www.nature.com/articles/nmeth.2738)  |          |            |
+| Tue, Sep 26 | Topics in regression:</br>General linear tests</br>Regression vs correlation | KNNL Ch2, 3.7 | Hw2 out  | Hw1 due   |
 | Fri, Sep 29 | Topics in regression:</br>Partial correlation</br> Multicollinearity      | KNNL Ch5-7 |   |            |
 | Tue, Oct 3  | Weighted regression</br>and bootstrap | KNNL Ch11  |      |          |
 | Fri, Oct 6  | **No class, exam prep** |  |   |  Hw2 due</br>Proj groups due |
