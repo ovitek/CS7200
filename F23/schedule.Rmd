@@ -10,19 +10,19 @@ Schedule is updated dynamically throughout the semester
 | Tue, Sep 12 | Sampling distribution |  KNNL Ch1-2 | Hw1 out  |            |
 | Fri, Sep 15 | Inference:</br>Interval estimation   |  KNNL Ch 2</br>[Points of significance](https://www.nature.com/articles/nmeth.2659)  |          |            |
 | Tue, Sep 19 | Inference:</br>Hypothesis testing </br>Statistical power |  KNNL Ch2</br>[Points of significance](https://www.nature.com/articles/nmeth.2698)</br>[NMethods](https://www.nature.com/articles/nmeth.3288)  |          |            |
-| Fri, Sep 22 | Inference:</br>Sample size</br>Prediction  | KNNL Ch2</br>[Points of significance](https://www.nature.com/articles/nmeth.2738)  |          |            |
-| Tue, Sep 26 | Topics in regression:</br>General linear tests</br>Regression vs correlation | KNNL Ch2, 3.7 | Hw2 out  | Hw1 due   |
-| Fri, Sep 29 | Topics in regression:</br>Partial correlation</br> Multicollinearity      | KNNL Ch5-7 |   |            |
-| Tue, Oct 3  | Weighted regression</br>and bootstrap | KNNL Ch11  |      |          |
-| Fri, Oct 6  | **No class, exam prep** |  |   |  Hw2 due</br>Proj groups due |
-| Tue, Oct 10 | **Midterm exam** |   |          |  |
-| Fri, Oct 13 | *Proj discussion on Zoom*      |            |          |  |
-| Tue, Oct 17 |  **No class, proj prep** |  |   | |
+| Fri, Sep 22 | Inference:</br>Sample size, prediction  | KNNL Ch2</br>[Points of significance](https://www.nature.com/articles/nmeth.2738)  |          |            |
+| Tue, Sep 26 | Inference:</br>Sample size, prediction  | KNNL Ch2  |   | Hw1 due   |
+| Fri, Sep 29 | One-variable regression:</br>General linear tests,</br>lack of fit    | KNNL Ch2.7-2.9, 3.7 | Hw2 out  |            |
+| Tue, Oct 3  | One-variable regression:</br>Regression vs correlation,</br>Multiple testing | KNNL Ch2.11, 4.1-4.3  |      |          |
+| Fri, Oct 6  | **Zoom lecture**</br>Multiple regression:</br>Multicollinearity |  KNNL Ch5-7 |   |   |
+| Tue, Oct 10 | **Zoom lecture**</br>Weighted regression</br>and bootstrap |     KNNL Ch11   |     |  |
+| Fri, Oct 13 | **Zoom discussion**</br>*Project suggestions*      |            |          | Hw2 due</br>Proj groups due |
+| Tue, Oct 17 |  **Midterm exam** |  |   | |
 | Fri, Oct 20 | **Proj pitches**|           |   |            |
-| Tue, Oct 24 | Topics in regression:</br>Categorical predictors</br>Designed experiments:</br>1-factor ANOVA</br>Analysis of covariance |  KNNL Ch8</br>KNNL Ch15-18 |    |            |
+| Tue, Oct 24 | Designed experiments:</br>Categorical predictors</br>1-factor ANOVA |  KNNL Ch8</br>KNNL Ch15-17 |    |            |
 | Fri, Oct 27 | Designed experiments:</br>2-factor ANOVA | KNNL Ch19 | | Proj proposals due         |
 | Tue, Oct 31 | Designed experiments:</br>2-factor ANOVA | KNNL Ch19 | Hw3 out  |            |
-| Fri, Nov 3  | Block designs | KNNL Ch21-22 |          |            |
+| Fri, Nov 3  | Block designs</br>Analysis of covariance | KNNL Ch21-22 |          |            |
 | Tue, Nov 7  | Mixed models | KNNL Ch25</br>Faraway Ch8</br>Rao Ch14 |          |   |
 | Fri, Nov 10 | **No class, Veteran's day** | |    |            |
 | Tue, Nov 14 | Causal inference |[Ref](https://matheusfacure.github.io/python-causality-handbook/landing-page.html) Ch 1,2,4,7          | | Hw3 due|
