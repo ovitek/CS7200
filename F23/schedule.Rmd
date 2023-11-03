@@ -15,17 +15,17 @@ Schedule is updated dynamically throughout the semester
 | Fri, Sep 29 | One-variable regression:</br>General linear tests,</br>lack of fit    | KNNL Ch2.7-2.9, 3.7 | Hw2 out  |            |
 | Tue, Oct 3  | One-variable regression:</br>Regression vs correlation,</br>Multiple testing | KNNL Ch2.11, 4.1-4.3  |      |          |
 | Fri, Oct 6  | **Zoom lecture**</br>Multiple regression:</br>Multicollinearity |  KNNL Ch5-7 |   |   |
-| Tue, Oct 10 | **Zoom lecture**</br>Weighted regression</br>and bootstrap |     KNNL Ch11   |     |  |
+| Tue, Oct 10 | **Zoom lecture**</br>Multiple regression:</br>Multicollinearity |  KNNL Ch5-7   |     |  |
 | Fri, Oct 13 | **Zoom discussion**</br>*Project suggestions*      |            |          | Hw2 due</br>Proj groups due |
 | Tue, Oct 17 |  **Midterm exam** |  |   | |
 | Fri, Oct 20 | **Proj pitches**|           |   |            |
 | Tue, Oct 24 | Designed experiments:</br>Categorical predictors</br>1-factor ANOVA |  KNNL Ch8</br>KNNL Ch15-17 |    |            |
 | Fri, Oct 27 | Designed experiments:</br>2-factor ANOVA | KNNL Ch19 | | Proj proposals due         |
 | Tue, Oct 31 | Designed experiments:</br>2-factor ANOVA | KNNL Ch19 | Hw3 out  |            |
-| Fri, Nov 3  | Block designs</br>Analysis of covariance | KNNL Ch21-22 |          |            |
-| Tue, Nov 7  | Mixed models | KNNL Ch25</br>Faraway Ch8</br>Rao Ch14 |          |   |
+| Fri, Nov 3  | Designed experiments:</br>2-factor ANOVA | KNNL Ch19 |          |            |
+| Tue, Nov 7  | Block designs</br>Analysis of covariance | KNNL Ch21-22 |          |   |
 | Fri, Nov 10 | **No class, Veteran's day** | |    |            |
-| Tue, Nov 14 | Causal inference |[Ref](https://matheusfacure.github.io/python-causality-handbook/landing-page.html) Ch 1,2,4,7          | | Hw3 due|
+| Tue, Nov 14 |  Mixed models | KNNL Ch25</br>Faraway Ch8</br>Rao Ch14 | Hw3 due|
 | Fri, Nov 17 | Causal inference |[Ref](https://matheusfacure.github.io/python-causality-handbook/landing-page.html) Ch 1,2,4,7 |Hw4 out  | |
 | Tue, Nov 21 | Causal inference | [Ref](https://matheusfacure.github.io/python-causality-handbook/landing-page.html) Ch 7, 10, 11   |    |            |
 | Fri, Nov 24 | **No class, Thanksgiving break** ||||
