@@ -1,0 +1,44 @@
+<h1> Statistical Methods for Computer Science, Fall 2024 </h1>
+Schedule is updated dynamically throughout the semester
+</br>
+
+<font size="3">
+
+| THEME       | DATE        | TOPIC            |READING     |      OUT |        DUE |
+| :---------  | :---------  |:-----------------|:-----------| --------:| ----------:|
+|Associations:| Fri, Sep 6  | |  |  | |
+|univariate| Tue, Sep 10 | |  |Hw1 out| |
+|| Fri, Sep 13 | |  |  | |
+|| Tue, Sep 17 | |  |  | |
+|| Fri, Sep 20 | |  |  | |
+|Associations:| Tue, Sep 24 | |  |  |Hw1 due|
+|multivariate| Fri, Sep 27 | |  |Hw2 out| |
+|| Tue, Oct 1  | |  |  | |
+|| Fri, Oct 4  | |  |  | |
+|| Tue, Oct 8  | |  |  | |
+|| Fri, Oct 11 | *Exam prep, no class*|  |  |Hw2 due</br>Proj groups due|
+|| Tue, Oct 15 |  **Midterm exam** |  |  | |
+|Causality:| Fri, Oct 18 | |  |  | |
+|designed| Tue, Oct 22 | |  |  | |
+|experiments| Fri, Oct 25 | |  |  | |
+|| Tue, Oct 29 | **Proj pitches**|  |Hw3 out| |
+|| Fri, Nov 1  | |  |  | |
+|| Tue, Nov 5  | |  |  |Proj proposals due|
+|Causality:| Fri, Nov 8  | |  |  | |
+|observational| Tue, Nov 12 | |  |Hw3 due|Hw4 out|
+|studies| Fri, Nov 15 | |  |  | |
+|| Tue, Nov 19 | |  |  | |
+|| Fri, Nov 22 | |  |  | |
+|| Tue, Nov 26 |*Exam prep, no class* |  |  |Hw4 due|
+|| Fri, Nov 29  | **No class, Thanksgiving break**      |            |          | |
+|| Tue, Dec 3  | **Final exam**   |            |          |            |
+|| Fri, Dec 6 | **Project presentations**  |  |          |            |
+|| Mon, Dec 9 |                  |            |          | Project reports due           |
+|| Wed, Dec 11 |                  |            |          | Project reviews due           |
+</font>
+
+
+
+
+
+

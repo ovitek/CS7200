@@ -6,25 +6,25 @@ Schedule is updated dynamically throughout the semester
 
 | DATE        | TOPIC            |READING     |      OUT |        DUE |
 | :---------   |:-----------------|:-----------| --------:| ----------:|
-| Fri, Sep 6  | Associations: univariate|  |  | |
+| Fri, Sep 6  | |  |  | |
 | Tue, Sep 10 | |  |Hw1 out| |
 | Fri, Sep 13 | |  |  | |
 | Tue, Sep 17 | |  |  | |
 | Fri, Sep 20 | |  |  | |
-| Tue, Sep 24 | Associations: multivariate|  |  |Hw1 due|
+| Tue, Sep 24 | |  |  |Hw1 due|
 | Fri, Sep 27 | |  |Hw2 out| |
 | Tue, Oct 1  | |  |  | |
 | Fri, Oct 4  | |  |  | |
 | Tue, Oct 8  | |  |  | |
 | Fri, Oct 11 | *Exam prep, no class*|  |  |Hw2 due</br>Proj groups due|
 | Tue, Oct 15 |  **Midterm exam** |  |  | |
-| Fri, Oct 18 | Causality: designed experiments |  |  | |
+| Fri, Oct 18 | |  |  | |
 | Tue, Oct 22 | |  |  | |
 | Fri, Oct 25 | |  |  | |
 | Tue, Oct 29 | **Proj pitches**|  |Hw3 out| |
 | Fri, Nov 1  | |  |  | |
 | Tue, Nov 5  | |  |  |Proj proposals due|
-| Fri, Nov 8  | Causality: observational studies|  |  | |
+| Fri, Nov 8  | |  |  | |
 | Tue, Nov 12 | |  |Hw3 due|Hw4 out|
 | Fri, Nov 15 | |  |  | |
 | Tue, Nov 19 | |  |  | |
@@ -33,8 +33,8 @@ Schedule is updated dynamically throughout the semester
 | Fri, Nov 29  | **No class, Thanksgiving break**      |            |          | |
 | Tue, Dec 3  | **Final exam**   |            |          |            |
 | Fri, Dec 6 | **Project presentations**  |  |          |            |
-| Mon, Dec 9 |                  |            |          | Proj reports due           |
-| Wed, Dec 11 |                  |            |          | Proj reviews due           |
+| Mon, Dec 9 |                  |            |          | Project reports due           |
+| Wed, Dec 11 |                  |            |          | Project reviews due           |
 </font>
 
 
