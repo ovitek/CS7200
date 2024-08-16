@@ -1,28 +1,30 @@
 <h1> Statistical Methods for Computer Science, Fall 2024 </h1>
 <h2>Tue and Fri 9:50am-11:30am, Ryder Hall 156</h2>
 
-The course introduces methods of statistical inference, useful in any area of science that collects and analyzes data. The course discusses the methodological foundations, as well as issues of practical implementation and use. Methods discussed in this class are applicable to a broad range of problems, from design and analysis of empirical studies of complex real-life phenomena, to design and analysis of evaluations of computer experiments or computer science research. The coursework includes a term project involving method development, implementation and/or work with real-life investigations.
+The course introduces methods of statistical inference, useful in any area of science that collects and analyzes data. The course discusses the methodological foundations, as well as issues of practical implementation and use. It includes a term project involving method development, implementation and/or work with real-life investigations.
 
-The course discusses the following topics:
+The course uses the context of linear regression models to discuss the following topics:
 
-- Basics of frequentist statistical inference for continuous data: measures of association, confidence and prediction intervals, hypothesis testing, benefits and limitations of p-values.
+- Univariate associations: measures of association, basics of frequentist statistical inference (point estimation, sampling distributions, confidence intervals, prediction intervals, hypothesis testing), and benefits and limitations of p-values. If time allows, we will contrast frequentist inference with Bayesian inference for univariate associations.
 
-- Experimental design: ways to include data to the study to maximize its statistical efficiency, and strategies for analysis of the designed experiments. Factorial and randomized block designs, linear mixed effects models, and response surface exploration.
+- Multivariate associations: focus on multicollinearity and multiplicity of testing.
 
-- Introduction to causal inference: graphical models, adjustments for confounders, interventions and counterfactual inference.
+- Causal inference in designed experiments: foundations of statistical design and analysis of experiments, allocation of experimental resources to the study to maximize efficiency of the conclusions (such as factorial and randomized block designs). If time allows, we will introduce linear mixed effects models and response surface exploration.
 
-- (Optional, if time allows) Introduction to Bayesian data analysis: model specification, estimation, checking and inference.
+- Causal inference in observational studies:} graphical models, adjustments for confounders, interventions and counterfactual inference.
+
+At the end of the course the students will be able to (1) recognize the problems of inferential nature and understand the underlying principles, (2) use statistical inference to design experiments and analyze data, and appropriately document the process, and (3) draw valid conclusions supported by the experimental design and data analysis, and clearly present the results.
 
 <p><strong>Instructor:</strong> [Prof. Olga Vitek](http://olga-vitek-lab.ccis.northeastern.edu/),
 Email: o.vitek@northeastern.edu</br>
-Office hours: Tue and Fri after the class, or by appointment. 177 Huntington Ave, 9th floor.</p>
+Office hours: Tue and Fri after the class, or by appointment, 177 Huntington Ave, 9th floor.</p>
 
 <p><strong>Teaching assistants:</strong></br>
 [Mrs. Sarah Szvetecz](https://www.khoury.northeastern.edu/people/sarah-szvetecz/), 
 Email: szvetecz.s@northeastern.edu</br>
 Office hours: TBD; or by appointment, 177 Huntington Ave, 9th floor.
 
-<p><strong>Course policies and administration:</strong></br> [Syllabus](CS7200_Fall23_syllabus.pdf),  [Piazza](https://piazza.com/northeastern/fall2023/cs720016852202410), 
+<p><strong>Course policies and administration:</strong></br> [Syllabus](CS7200_Fall24_syllabus.pdf),  [Piazza](https://piazza.com/northeastern/fall2024/cs7200), 
 [Canvas](https://canvas.northeastern.edu/).</br>
 [Academic integrity policy](https://osccr.sites.northeastern.edu/academic-integrity-policy/) is strictly enforced.</p> 
 
