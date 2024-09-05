@@ -5,30 +5,30 @@ Schedule is updated dynamically throughout the semester
 <font size="3">
 
 | DATE        | TOPIC            |READING     |      OUT |        DUE |
-| :---------   |:-----------------|:-----------| --------:| ----------:|
-| Fri, Sep 6  | Associations: univariate|  |  | |
-| Tue, Sep 10 | |  |Hw1 out| |
-| Fri, Sep 13 | |  |  | |
-| Tue, Sep 17 | |  |  | |
-| Fri, Sep 20 | |  |  | |
-| Tue, Sep 24 | Associations: multivariate|  |  |Hw1 due|
-| Fri, Sep 27 | |  |Hw2 out| |
-| Tue, Oct 1  | |  |  | |
-| Fri, Oct 4  | |  |  | |
-| Tue, Oct 8  | |  |  | |
+| :----------------   |:-----------------|:---------------| --------:| ----------:|
+| Fri, Sep 6</br>*Associations: univariate*| </br>Point estimation| KNNL Ch1-2</br>[Points of significance](https://www.nature.com/articles/nmeth.2613) |  | |
+| Tue, Sep 10 | Sampling distribution|  KNNL Ch1-2|Hw1 out| |
+| Fri, Sep 13 | Inference: Interval estimation| KNNL Ch2</br>[Points of significance](https://www.nature.com/articles/nmeth.2659) |  | |
+| Tue, Sep 17 | Inference: Hypothesis testing</br>Statistical power|KNNL Ch2</br>[Points of significance](https://www.nature.com/articles/nmeth.2698)</br>[Nature Methods](https://www.nature.com/articles/nmeth.3288)  |  | |
+| Fri, Sep 20 | Sample size estimation</br>Inference: Prediction|KNNL Ch2</br>[Points of significance](https://www.nature.com/articles/nmeth.2738)  |  | |
+| Tue, Sep 24 | Regresison vs correlation</br>Bootstrap| KNNL Ch2</br>KNNL Ch11.5 |  |Hw1 due|
+| Fri, Sep 27 | Contrast with</br>Bayesian inference|  |Hw2 out| |
+| Tue, Oct 1</br>*Associations: multivariate*  | Simultaneous inference</br>Multivariate models| KNNL Ch4.1-4.3</br>KNNL Ch5-6.4 |  | |
+| Fri, Oct 4  | Inference: Estimation</br>Inference: Multicollinearity| KNNL Ch6.6-6.7</br>KNNL Ch7.6 |  | |
+| Tue, Oct 8  | General linear tests</br>Categorical predictors| KNNL Ch6.5</br>KNNL Ch8 |  | |
 | Fri, Oct 11 | *Exam prep, no class*|  |  |Hw2 due</br>Proj groups due|
 | Tue, Oct 15 |  **Midterm exam** |  |  | |
-| Fri, Oct 18 | Causality: designed experiments |  |  | |
-| Tue, Oct 22 | |  |  | |
-| Fri, Oct 25 | |  |  | |
+| Fri, Oct 18</br>*Causality: designed* | 1-factor ANOVA | KNNL Ch15-17 |  | |
+| Tue, Oct 22 | 2-factor ANOVA| KNNL Ch19 |  | |
+| Fri, Oct 25 | 2-factor ANOVA| KNNL Ch19 |  | |
 | Tue, Oct 29 | **Proj pitches**|  |Hw3 out| |
-| Fri, Nov 1  | |  |  | |
-| Tue, Nov 5  | |  |  |Proj proposals due|
-| Fri, Nov 8  | Causality: observational studies|  |  | |
-| Tue, Nov 12 | |  |Hw3 due|Hw4 out|
-| Fri, Nov 15 | |  |  | |
-| Tue, Nov 19 | |  |  | |
-| Fri, Nov 22 | |  |  | |
+| Fri, Nov 1  | Block designs</br>Analysis of covariance| KNNL Ch21-22 |  | |
+| Tue, Nov 5  | Mixed effects models| KNNL Ch25 |  |Proj proposals due|
+| Fri, Nov 8</br>*Causality: observational*  | Causal inference |  |  | |
+| Tue, Nov 12 | Causal inference|  |Hw3 due|Hw4 out|
+| Fri, Nov 15 | Causal inference|  |  | |
+| Tue, Nov 19 | Causal inference|  |  | |
+| Fri, Nov 22 | Causal inference|  |  | |
 | Tue, Nov 26 |*Exam prep, no class* |  |  |Hw4 due|
 | Fri, Nov 29  | **No class, Thanksgiving break**      |            |          | |
 | Tue, Dec 3  | **Final exam**   |            |          |            |
