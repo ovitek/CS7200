@@ -11,11 +11,11 @@ Schedule is updated dynamically throughout the semester
 | Fri, Sep 13 | Inference: Interval estimation| KNNL Ch2</br>[Points of significance](https://www.nature.com/articles/nmeth.2659) |  | |
 | Tue, Sep 17 | Inference: Hypothesis testing</br>Statistical power|KNNL Ch2</br>[Points of significance](https://www.nature.com/articles/nmeth.2698)</br>[Nature Methods](https://www.nature.com/articles/nmeth.3288)  |  | |
 | Fri, Sep 20 | Sample size estimation</br>Inference: Prediction|KNNL Ch2</br>[Points of significance](https://www.nature.com/articles/nmeth.2738)  |  | |
-| Tue, Sep 24 | Contrast with</br>Bayesian inference|  |  |Hw1 due|
-| Fri, Sep 27 | Regresison vs correlation</br>Bootstrap| KNNL Ch2</br>KNNL Ch11.5 |Hw2 out| |
-| Tue, Oct 1</br>*Associations: multivariate*  | Simultaneous inference</br>Multivariate models| KNNL Ch4.1-4.3</br>KNNL Ch5-6.4 |  | |
-| Fri, Oct 4  | Inference: Estimation</br>Inference: Multicollinearity| KNNL Ch6.6-6.7</br>KNNL Ch7.6 |  | |
-| Tue, Oct 8  | General linear tests</br>Categorical predictors| KNNL Ch6.5</br>KNNL Ch8 |  | |
+| Tue, Sep 24 | Correlation model</br>Weighted regression| KNNL Ch2.11</br>KNNL Ch11 |  |Hw1 due|
+| Fri, Sep 27 | Bootstrap</br> Simultaneous inference| KNNL Ch11.5</br>KNNL Ch4.1-4.3 |Hw2 out| |
+| Tue, Oct 1  |Bayesian inference| [Bayesian statistics](https://statswithr.github.io/book/)  |  | |
+| Fri, Oct 4</br>*Associations: multivariate*  | Inference: Estimation</br>Inference: Multicollinearity| KNNL Ch5-6.4</br>KNNL Ch6.6-6.7</br>KNNL Ch7.6 |  | |
+| Tue, Oct 8  | Categorical predictors</br>General linear tests| KNNL Ch8</br>KNNL Ch6.5 |  | |
 | Fri, Oct 11 | *Exam prep, no class*|  |  |Hw2 due</br>Proj groups due|
 | Tue, Oct 15 |  **Midterm exam** |  |  | |
 | Fri, Oct 18</br>*Causality: designed* | 1-factor ANOVA | KNNL Ch15-17 |  | |
