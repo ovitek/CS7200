@@ -1,0 +1,47 @@
+<h1> Statistical Methods for Computer Science, Fall 2024 </h1>
+Schedule is updated dynamically throughout the semester
+</br>
+
+<font size="3">
+
+| DATE        | TOPIC            |READING     |      OUT |        DUE |
+| :----------------   |:-----------------|:---------------| --------:| ----------:|
+| Tue, Jan 7</br>*Associations: univariate*| </br>Point estimation| KNNL Ch1-2</br>[Points of significance](https://www.nature.com/articles/nmeth.2613) | Hw1 out | |
+| Fri, Jan 10 | Sampling distribution|  KNNL Ch1-2|| |
+| Tue, Jan 14 | Inference: Interval estimation| KNNL Ch2</br>[Points of significance](https://www.nature.com/articles/nmeth.2659) |  | |
+| Fri, Jan 17 | Inference: Hypothesis testing</br>Statistical power|KNNL Ch2</br>[Points of significance](https://www.nature.com/articles/nmeth.2698)</br>[Nature Methods](https://www.nature.com/articles/nmeth.3288)  |  | |
+| Tue, Jan 21 | Sample size estimation|KNNL Ch2  |  | Hw1 due|
+| Fri, Jan 24 | Inference: Prediction| [Points of significance](https://www.nature.com/articles/nmeth.2738)</br>KNNL Ch2.5-2.6 | Hw2 out ||
+| Tue, Jan 28 | Correlation model| KNNL Ch2.11 || |
+| Fri, Jan 31 |Simultaneous inference</br>Weighted regression| KNNL Ch4.1-4.3</br>KNNL Ch11.1 || |
+| Tue, Feb 4  |Bootstrap| KNNL Ch11.5  |  | |
+| Fri, Feb 7  </br>*Associations: multivariate*  | Inference: Estimation</br>Inference: Multicollinearity| KNNL Ch5-6</br>KNNL Ch7.6 |  |Hw2 due</br>Proj groups due |
+| Tue, Feb 11 |Categorical predictors| KNNL Ch8  | Hw3 out ||
+| Fri, Feb 14 </br>*Causality: designed* | 1- and 2-factor ANOVA| KNNL Ch15-17, Ch19 |  | |
+| Tue, Feb 18 |1- and 2-factor ANOVA| KNNL Ch15-17, Ch19 |
+| Fri, Feb 21 | 1- and 2-factor ANOVA| KNNL Ch15-17, Ch19 |
+| Tue, Feb 25 | *Exam prep, no class*| |  | Hw3 due|
+| Fri, Feb 28 | **Midterm exam**|  || |
+| Tue, Mar 4  |  **No class, Spring break**  |            |          |.               |
+| Fri, Mar 7  |  **No class, Spring break**  |            |          |                |
+| Tue, Mar 11 |**Proj pitches** | |  | |
+| Fri, Mar 14 |  *TBD* | |
+| Tue, Mar 18 | Block designs</br>Analysis of covariance| KNNL Ch21-22  |  | Proj proposals due|
+| Fri, Mar 21 | Bayesian inference| [Bayesian statistics](https://statswithr.github.io/book/) | ||
+| Tue, Mar 25 </br>*Causality: observational*  | Causal inference | [Ref](https://matheusfacure.github.io/python-causality-handbook/landing-page.html) Ch 1,2,4,7 | Hw4 out | |
+| Fri, Mar 28 | Causal inference| [Ref](https://matheusfacure.github.io/python-causality-handbook/landing-page.html) Ch 7,10,11 |  | |
+| Tue, Apr 1  | Causal inference|   |  | |
+| Fri, Apr 4  | Causal inference| |  ||
+| Tue, Apr 8  | Causal inference |            |          | |
+| Fri, Apr 11 | *Exam prep, no class*   |            |          |  Hw4 due          |
+| Tue, Apr 15 | **Final exam**      |            |          | |
+| Fri, Apr 18 | **Project presentations**   |            |          |            |
+| Mon, Apr 21 |                  |            |          | Proj reports due           |
+| Wed, Apr 23 |                  |            |          | Proj reviews due           |
+</font>
+
+
+
+
+
+
