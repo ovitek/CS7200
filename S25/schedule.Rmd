@@ -12,7 +12,7 @@ Schedule is updated dynamically throughout the semester
 | Fri, Jan 17 | Inference: Hypothesis testing</br>Statistical power|KNNL Ch2</br>[Points of significance](https://www.nature.com/articles/nmeth.2698)</br>[Nature Methods](https://www.nature.com/articles/nmeth.3288)  |  | |
 | Tue, Jan 21 | Sample size estimation|KNNL Ch2  |  | Hw1 due|
 | Fri, Jan 24 | Inference: Prediction| [Points of significance](https://www.nature.com/articles/nmeth.2738)</br>KNNL Ch2.5-2.6 | Hw2 out ||
-| Tue, Jan 28 | Correlation model| KNNL Ch2.11 || |
+| Tue, Jan 28 | ANOVA for regression</br>Correlation model| KNNL Ch2.7</br>KNNL Ch2.11 || |
 | Fri, Jan 31 |Simultaneous inference</br>Weighted regression| KNNL Ch4.1-4.3</br>KNNL Ch11.1 || |
 | Tue, Feb 4  |Bootstrap| KNNL Ch11.5  |  | |
 | Fri, Feb 7  </br>*Associations: multivariate*  | Inference: Estimation</br>Inference: Multicollinearity| KNNL Ch5-6</br>KNNL Ch7.6 |  |Hw2 due</br>Proj groups due |
