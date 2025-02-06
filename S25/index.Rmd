@@ -21,7 +21,7 @@ Office hours: Tue and Fri after the class, or by appointment, 177 Huntington Ave
 
 <p><strong>Teaching assistants:</strong></br>
 [Mr. Anthony Wu](https://www.linkedin.com/in/anthony-w-086272b6/), 
-Email: ant.wu@northeastern.edu</br>
+Email: wu.anthon@northeastern.edu</br>
 Office hours: Tue 3:30pm to 4:30pm and Fri 1:30pm to 2:30pm, or by appointment, 177 Huntington Ave, 9th floor.
 
 <p><strong>Course policies and administration:</strong></br> [Syllabus](CS7200_Spring25_syllabus.pdf),  [Piazza](https://piazza.com/northeastern/spring2025/cs7200), 
