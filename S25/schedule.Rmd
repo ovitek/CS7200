@@ -25,7 +25,7 @@ Schedule is updated dynamically throughout the semester
 | Tue, Mar 4  |  **No class, Spring break**  |            |          |.               |
 | Fri, Mar 7  |  **No class, Spring break**  |            |          |                |
 | Tue, Mar 11 |**Proj pitches** | |  | |
-| Fri, Mar 14 |  *TBD* | |
+| Fri, Mar 14 |  *No class* | |
 | Tue, Mar 18 | Block designs</br>Analysis of covariance| KNNL Ch21-22  |  | Proj proposals due|
 | Fri, Mar 21 | Bayesian inference| [Bayesian statistics](https://statswithr.github.io/book/) | ||
 | Tue, Mar 25 </br>*Causality: observational*  | Causal inference | [Ref](https://matheusfacure.github.io/python-causality-handbook/landing-page.html) Ch 1,2,4,7 | Hw4 out | |
