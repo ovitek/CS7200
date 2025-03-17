@@ -16,21 +16,21 @@ Schedule is updated dynamically throughout the semester
 | Fri, Jan 31 |Simultaneous inference</br>Weighted regression| KNNL Ch4.1-4.3</br>KNNL Ch11.1 || |
 | Tue, Feb 4  |Bootstrap| KNNL Ch11.5  |  | |
 | Fri, Feb 7  </br>*Associations: multivariate*  | Inference: Estimation</br>Inference: Multicollinearity| KNNL Ch5-6</br>KNNL Ch7.6 |  |Hw2 due</br>Proj groups due |
-| Tue, Feb 11 |Categorical predictors| KNNL Ch8  | Hw3 out ||
+| Tue, Feb 11 |Categorical predictors| KNNL Ch8  | Hw3a out ||
 | Fri, Feb 14 </br>*Causality: designed* | 1- and 2-factor ANOVA| KNNL Ch15-17, Ch19 |  | |
 | Tue, Feb 18 |1- and 2-factor ANOVA| KNNL Ch15-17, Ch19 |
 | Fri, Feb 21 | 1- and 2-factor ANOVA| KNNL Ch15-17, Ch19 |
-| Tue, Feb 25 | *Exam prep, no class*| |  | Hw3 due|
+| Tue, Feb 25 | *Exam prep, no class*| |  | Hw3a due|
 | Fri, Feb 28 | **Midterm exam**|  || |
 | Tue, Mar 4  |  **No class, Spring break**  |            |          |.               |
 | Fri, Mar 7  |  **No class, Spring break**  |            |          |                |
 | Tue, Mar 11 |**Proj pitches** | |  | |
 | Fri, Mar 14 |  *No class* | |
-| Tue, Mar 18 | Block designs</br>Analysis of covariance| KNNL Ch21-22  |  | Proj proposals due|
-| Fri, Mar 21 | Bayesian inference| [Bayesian statistics](https://statswithr.github.io/book/) | ||
-| Tue, Mar 25 </br>*Causality: observational*  | Causal inference | [Ref](https://matheusfacure.github.io/python-causality-handbook/landing-page.html) Ch 1,2,4,7 | Hw4 out | |
-| Fri, Mar 28 | Causal inference| [Ref](https://matheusfacure.github.io/python-causality-handbook/landing-page.html) Ch 7,10,11 |  | |
-| Tue, Apr 1  | Causal inference|   |  | |
+| Tue, Mar 18 | 2-factor ANOVA| KNNL Ch19-20  | Hw3b out | Proj proposals due|
+| Fri, Mar 21 | Block designs</br>Analysis of covariance| KNNL Ch21-22 | ||
+| Tue, Mar 25   | Random effects | KNNL Ch25 |  | |
+| Fri, Mar 28 </br>*Causality: observational*| Causal inference| |  | Hw3b is due |
+| Tue, Apr 1  | Causal inference|   | Hw4 out | |
 | Fri, Apr 4  | Causal inference| |  ||
 | Tue, Apr 8  | Causal inference |            |          | |
 | Fri, Apr 11 | *Exam prep, no class*   |            |          |  Hw4 due          |
