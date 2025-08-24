@@ -1,0 +1,34 @@
+<h1> Statistical Methods for Computer Science, Fall 2025 </h1>
+<h2>Tue and Fri 9:50am-11:30am, Snell Library 049</h2>
+
+The course introduces methods of statistical inference, useful in any area of science that collects and analyzes data. The course discusses the methodological foundations, as well as issues of practical implementation and use. It includes a term project involving method development, implementation and/or work with real-life investigations.
+
+The course uses the context of linear regression models to discuss the following topics:
+
+- Univariate associations: measures of association, basics of frequentist statistical inference (point estimation, sampling distributions, confidence intervals, prediction intervals, hypothesis testing), and benefits and limitations of p-values. If time allows, we will contrast frequentist inference with Bayesian inference for univariate associations.
+
+- Multivariate associations: focus on multicollinearity and multiplicity of testing.
+
+- Causal inference in designed experiments: foundations of statistical design and analysis of experiments, allocation of experimental resources to the study to maximize efficiency of the conclusions (such as factorial and randomized block designs). If time allows, we will introduce linear mixed effects models and response surface exploration.
+
+- Causal inference in observational studies:} graphical models, adjustments for confounders, interventions and counterfactual inference.
+
+At the end of the course the students will be able to (1) recognize the problems of inferential nature and understand the underlying principles, (2) use statistical inference to design experiments and analyze data, and appropriately document the process, and (3) draw valid conclusions supported by the experimental design and data analysis, and clearly present the results.
+
+<p><strong>Instructor:</strong> [Prof. Olga Vitek](http://olga-vitek-lab.ccis.northeastern.edu/),
+Email: o.vitek@northeastern.edu</br>
+Office hours: Tue and Fri after the class, or by appointment, 177 Huntington Ave, 9th floor.</p>
+
+<p><strong>Teaching assistants:</strong></br>
+[Mr. Karna Mendonca](https://www.khoury.northeastern.edu/people/karna-mendonca/), 
+Email: mendonca.k@northeastern.edu</br>
+Office hours: TBD, or by appointment, 177 Huntington Ave, 9th floor.
+
+<p><strong>Course policies and administration:</strong></br> [Syllabus](CS7200_Fall24_syllabus.pdf),  [Piazza](https://piazza.com/northeastern/fall2025/cs7200), 
+[Canvas](https://canvas.northeastern.edu/).</br>
+[Academic integrity policy](https://osccr.sites.northeastern.edu/academic-integrity-policy/) is strictly enforced.</p> 
+
+<h2>Main text:</h2>
+<p>(KNNL) [Applied Linear Statistical Models](https://www.amazon.com/Applied-Linear-Statistical-Models-2013/dp/1259064743/). Kutner, Neter, Nachtsheim, Li, McGraw-Hill, 5th Edition, 2004. [Website](http://users.stat.ufl.edu/~rrandles/sta4210/Rclassnotes/data/textdatasets/index.html).</br>
+Additional texts will be posted dynamically on Piazza
+</p>

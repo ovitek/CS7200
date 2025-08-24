@@ -1,0 +1,13 @@
+name: "cs7200F24"
+output_dir: "."
+navbar:
+  title: "CS7200"
+  left:
+    - text: "Info"
+      href: index.html
+    - text: "Schedule"
+      href: schedule.html
+output:
+  html_document:
+    theme: paper
+    css: style.css
