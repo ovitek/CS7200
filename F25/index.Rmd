@@ -24,7 +24,7 @@ Office hours: Tue and Fri after the class, or by appointment, 177 Huntington Ave
 Email: mendonca.k@northeastern.edu</br>
 Office hours: Tue and Thu 2-3pm, or by appointment, 177 Huntington Ave, 9th floor.
 
-<p><strong>Course policies and administration:</strong></br> [Syllabus](CS7200_Fall24_syllabus.pdf),  [Piazza](https://piazza.com/northeastern/fall2025/cs7200), 
+<p><strong>Course policies and administration:</strong></br> [Syllabus](CS7200_Fall25_syllabus.pdf),  [Piazza](https://piazza.com/northeastern/fall2025/cs7200), 
 [Canvas](https://canvas.northeastern.edu/).</br>
 [Academic integrity policy](https://osccr.sites.northeastern.edu/academic-integrity-policy/) is strictly enforced.</p> 
 
