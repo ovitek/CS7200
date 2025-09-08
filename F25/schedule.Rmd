@@ -9,7 +9,7 @@ Schedule is updated dynamically throughout the semester
 | Fri, Sep 5</br>*Associations: univariate*| </br>Point estimation| KNNL Ch1-2</br>[Points of significance](https://www.nature.com/articles/nmeth.2613) |  | |
 | Tue, Sep 9 | Sampling distribution|  KNNL Ch1-2|Hw1 out| |
 | Fri, Sep 12 | Inference: Interval estimation| KNNL Ch2</br>[Points of significance](https://www.nature.com/articles/nmeth.2659) |  | |
-| Tue, Sep 16 | **No class, project prep** |KNNL Ch2  |  | |
+| Tue, Sep 16 | **No class, project prep** |  |  | |
 | Fri, Sep 19 | Inference: Hypothesis testing</br>Statistical power</br>Sample size estimation|KNNL Ch2</br>[Points of significance](https://www.nature.com/articles/nmeth.2698)</br>[Nature Methods](https://www.nature.com/articles/nmeth.3288)  |  | Proj groups due |
 | Tue, Sep 23 | Inference: Prediction| [Points of significance](https://www.nature.com/articles/nmeth.2738)</br>KNNL Ch2.5-2.6 |  ||
 | Fri, Sep 26 | Correlation model| KNNL Ch2.11 |Hw2 out| |
