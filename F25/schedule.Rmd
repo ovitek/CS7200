@@ -13,9 +13,9 @@ Schedule is updated dynamically throughout the semester
 | Fri, Sep 19 | Inference: Hypothesis testing</br>Statistical power</br>Sample size estimation|  |  | Proj groups due |
 | Tue, Sep 23 | Inference: Prediction| [Points of significance](https://www.nature.com/articles/nmeth.2738)</br>KNNL Ch2.5-2.6 |  ||
 | Fri, Sep 26 | Correlation model| KNNL Ch2.11 |Hw2 out| |
-| Tue, Sep 30  |Weighted regression| KNNL Ch11.1 || |
+| Tue, Sep 30  |Simultaneous inference| KNNL Ch4.1-4.3 || |
 | Fri, Oct 3  |**Project proposal**  |  | |
-| Tue, Oct 7  | Bootstrap</br>Simultaneous inference| KNNL Ch11.5</br>KNNL Ch4.1-4.3  |  | |
+| Tue, Oct 7  | Weighted regression</br>Bootstrap| KNNL Ch11.1</br>KNNL Ch11.5  |  | |
 | Fri, Oct 10</br>*Associations: multivariate* | Inference: Estimation</br>Inference: Multicollinearity| KNNL Ch5-6</br>KNNL Ch7.6  |  |Proj proposal due|
 | Tue, Oct 14 |  Categorical predictors| KNNL Ch8  |  | |
 | Fri, Oct 17  | *No class, exam prep (tentative)* |  | |
