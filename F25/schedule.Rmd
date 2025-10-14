@@ -17,8 +17,8 @@ Schedule is updated dynamically throughout the semester
 | Fri, Oct 3  |**Project proposal**  |  | |
 | Tue, Oct 7  | Weighted regression</br>Bootstrap| KNNL Ch11.1</br>KNNL Ch11.5  |  | |
 | Fri, Oct 10</br>*Associations: multivariate* | Inference: Estimation</br>Inference: Multicollinearity| KNNL Ch5-6</br>KNNL Ch7.6  |  |Proj proposal due|
-| Tue, Oct 14 |  Categorical predictors| KNNL Ch8  |  | |
-| Fri, Oct 17  | *No class, exam prep (tentative)* |  | |
+| Tue, Oct 14 |  Inference: Multicollinearity| KNNL Ch7.6  |  | |
+| Fri, Oct 17  | Categorical predictors| KNNL Ch8  | |
 | Tue, Oct 21 | **Midterm exam** |  | |
 | Fri, Oct 24</br>*Causality: designed* |  1- and 2-factor ANOVA| KNNL Ch15-17, Ch19  |Hw3 out |
 | Tue, Oct 28 |  1- and 2-factor ANOVA| KNNL Ch15-17, Ch19 ||  |
