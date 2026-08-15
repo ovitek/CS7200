@@ -1,5 +1,5 @@
-<h1> Statistical Methods for Computer Science, Fall 2025 </h1>
-<h2>Tue and Fri 9:50am-11:30am, Snell Library 049</h2>
+<h1> Statistical Methods for Computer Science, Fall 2026 </h1>
+<h2>Tue and Fri 9:50am-11:30am, Richards Hall 241</h2>
 
 The course introduces methods of statistical inference, useful in any area of science that collects and analyzes data. The course discusses the methodological foundations, as well as issues of practical implementation and use. It includes a term project involving method development, implementation and/or work with real-life investigations.
 
