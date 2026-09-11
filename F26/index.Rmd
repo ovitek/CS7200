@@ -22,7 +22,7 @@ Office hours: Tue and Fri after the class, or by appointment, 216 Massachusetts 
 <p><strong>Teaching assistants:</strong></br>
 [Mr. Sean Lynch](https://www.linkedin.com/in/seanvlynch/), 
 Email: lynch.sea@northeastern.edu</br>
-Office hours: Tuesdays from 1-2 pm and Thursdays from 3-4pm, or by appointment, 216 Massachusetts Ave, 3rd floor.
+Office hours: Tuesdays 1-2 pm and Thursdays 3-4pm, or by appointment, 216 Massachusetts Ave, 3rd floor.
 
 <p><strong>Course policies and administration:</strong></br> [Syllabus](CS7200_Fall26_syllabus.pdf),  [Piazza](https://piazza.com/northeastern/fall2026/cs7200), 
 [Canvas](https://canvas.northeastern.edu/).</br>
