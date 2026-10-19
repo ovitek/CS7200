@@ -12,17 +12,17 @@ Schedule is updated dynamically throughout the semester
 | Tue, Sep 22 | Inference: Hypothesis testing</br>Statistical power</br>Sample size estimation|KNNL Ch2</br>[Points of significance](https://www.nature.com/articles/nmeth.2698)</br>[Nature Methods](https://www.nature.com/articles/nmeth.3288)  |  | |
 | *Fri, Sep 25* | Inference: Hypothesis testing</br>Statistical power</br>Sample size estimation|  |  | Proj groups due |
 | *Tue, Sep 29* | Inference: Prediction| [Points of significance](https://www.nature.com/articles/nmeth.2738)</br>KNNL Ch2.5-2.6 |  ||
-| Fri, Oct 2 | Correlation model| KNNL Ch2.11 |Hw2 out| |
-| Tue, Oct 6  |Simultaneous inference| KNNL Ch4.1-4.3 || |
-| Fri, Oct 9  |**Project proposal**  |  | |
-| Tue, Oct 13  | Weighted regression</br>Bootstrap| KNNL Ch11.1</br>KNNL Ch11.5  |  | |
-| Fri, Oct 16</br>*Associations: multivariate* | Inference: Estimation</br>Inference: Multicollinearity| KNNL Ch5-6</br>KNNL Ch7.6  |  |Proj proposal due|
-| Tue, Oct 20 |  Inference: Multicollinearity| KNNL Ch7.6  |  | |
-| Fri, Oct 23  | Categorical predictors| KNNL Ch8  | |
+| Fri, Oct 2 | Catch-up topics ||Hw2 out| |
+| Tue, Oct 6  |Correlation model| KNNL Ch2.11| |
+| Fri, Oct 9  |**Project proposal**  | | | |
+| Tue, Oct 13  |    Simultaneous inference| KNNL Ch4.1-4.3 | |
+| Fri, Oct 16 |   Weighted regression</br>Bootstrap| KNNL Ch11.1</br>KNNL Ch11.5  ||Proj proposal due|
+| Tue, Oct 20</br>*Associations: multivariate* |  Inference: Estimation</br>Inference: Multicollinearity| KNNL Ch5-6</br>KNNL Ch7.6  |  | |
+| Fri, Oct 23  | Inference: Estimation</br>Inference: Multicollinearity| KNNL Ch5-6</br>KNNL Ch7.6  | |
 | *Tue, Oct 27* | **Midterm exam** |  | |
-| Fri, Oct 30</br>*Causality: designed* |  1- and 2-factor ANOVA| KNNL Ch15-17, Ch19  |Hw3 out |
-| Tue, Nov 3 |  1- and 2-factor ANOVA| KNNL Ch15-17, Ch19 ||  |
-| Fri, Nov 6 | 1- and 2-factor ANOVA| KNNL Ch15-17, Ch19  | |
+| Fri, Oct 30 |  Inference: Multicollinearity| KNNL Ch7.6  |Hw3 out |
+| Tue, Nov 3 |   Categorical predictors| KNNL Ch8|  |
+| Fri, Nov 6</br>*Causality: designed* | 1- and 2-factor ANOVA| KNNL Ch15-17, Ch19  | |
 | Tue, Nov 10  | **Project interim report**   |||
 | Fri, Nov 13  | 1- and 2-factor ANOVA| KNNL Ch15-17, Ch19  |  | |
 | Tue, Nov 17 | 1- and 2-factor ANOVA| KNNL Ch15-17, Ch19 | || Proj interim report due|
