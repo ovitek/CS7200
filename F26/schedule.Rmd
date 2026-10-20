@@ -13,10 +13,10 @@ Schedule is updated dynamically throughout the semester
 | *Fri, Sep 25* | Inference: Hypothesis testing</br>Statistical power</br>Sample size estimation|  |  | Proj groups due |
 | *Tue, Sep 29* | Inference: Prediction| [Points of significance](https://www.nature.com/articles/nmeth.2738)</br>KNNL Ch2.5-2.6 |  ||
 | Fri, Oct 2 | Catch-up topics ||Hw2 out| |
-| Tue, Oct 6  |Correlation model| KNNL Ch2.11| |
+| Tue, Oct 6  |Catch-up topics| | |
 | Fri, Oct 9  |**Project proposal**  | | | |
-| Tue, Oct 13  |    Simultaneous inference| KNNL Ch4.1-4.3 | |
-| Fri, Oct 16 |  Catch-up topics |  ||Proj proposal due|
+| Tue, Oct 13  |    Correlation model| KNNL Ch2.11 | |
+| Fri, Oct 16 |  Simultaneous inference| KNNL Ch4.1-4.3 ||Proj proposal due|
 | Tue, Oct 20 |   Weighted regression</br>Bootstrap| KNNL Ch11.1</br>KNNL Ch11.5  |  | |
 | Fri, Oct 23</br>*Associations: multivariate*  | Inference: Estimation</br>Inference: Multicollinearity| KNNL Ch5-6</br>KNNL Ch7.6  | |
 | *Tue, Oct 27* | **Midterm exam** |  | |
