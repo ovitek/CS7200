@@ -27,10 +27,10 @@ Schedule is updated dynamically throughout the semester
 | Fri, Nov 13  | 1- and 2-factor ANOVA| KNNL Ch15-17, Ch19  |  | |
 | Tue, Nov 17 | 1- and 2-factor ANOVA| KNNL Ch15-17, Ch19 | | Proj interim report due|
 | Fri, Nov 20</br>*Causality: observational* | Block designs</br>Analysis of covariance</br>Causal inference| KNNL Ch21-22</br> [Ref](https://matheusfacure.github.io/python-causality-handbook/landing-page.html) Ch 7,10,11 |  | |
-| Tue, Nov 24 | Causal inference</br>with case study| [Ref](https://matheusfacure.github.io/python-causality-handbook/landing-page.html) Ch 1,2,4,7 |  | |
+| Tue, Nov 24 | Causal inference| [Ref](https://matheusfacure.github.io/python-causality-handbook/landing-page.html) Ch 1,2,4,7 |  | |
 | Fri, Nov 27 | **No class, Thanksgiving break** | | |
 | Tue, Dec 1 |Causal inference || Hw4 out  ||
-| Fri, Dec 4  | Causal inference      |            |          | |
+| Fri, Dec 4  | Causal inference</br>with case study      |            |          | |
 | Tue, Dec 8  | **Final exam**   |            |          |            |
 | Fri, Dec 11 | **Project presentation**  |  |          |            |
 | Mon, Dec 14 |                  |            |          | Proj report due           |
